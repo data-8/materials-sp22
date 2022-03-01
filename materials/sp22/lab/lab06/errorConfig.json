@@ -1,0 +1,104 @@
+{
+     "AttributeError": [
+          {
+               "module": {
+                    "helptext": [
+                         "Misspelling a method, ie: `np.arenge` instead of `np.arange`",
+                         "Using a method that uses a different name, i.e `np.total` instead of `np.sum`"
+                    ]
+               }
+          },
+          {
+               "object has no attribute": {
+                    "helptext": [
+                         "Trying to get an attribute that doesn't exist, or misspelled, i.e \n ` a = Table().with_columns(\"Column 1\", data)` then calling `a.num_row` instead of `a.num_rows` "
+                    ]
+               }
+          }
+     ],
+     "IndexError": [
+          {
+               "out of range": {
+                    "helptext": [
+                         "Trying to index with a value larger than the size of the array. Double check that the length of the array and make sure you aren't using a number larger than that. Also don't forget python is 0-index"
+                    ]
+               }
+          }
+     ],
+     "NameError": [
+          {
+               "defined": {
+                    "helptext": [
+                         "Misspelling a variable, function, or method name ",
+                         "Not importing required libraries, i.e not running the cell with `import numpy as np`",
+                         "Kernel died. You might need to re-run cells to redefine variables"
+                    ]
+               }
+          }
+     ],
+     "SyntaxError": [
+          {
+               "EOF": {
+                    "helptext": [
+                         "Having the wrong number of parenthesis or brackets",
+                         "Not using a colon in define statements or for loops"
+                    ]
+               }
+          },
+          {
+               "invalid syntax": {
+                    "helptext": [
+                         "Adding extra parenthesis",
+                         "Not following python define or for loop structure, not adding a colon"
+                    ]
+               }
+          }
+     ],
+     "TypeError": [
+          {
+               "unsupported operand": {
+                    "helptext": [
+                         "Using the wrong type of input, i.e `np.arange(\"3\")`"
+                    ]
+               }
+          },
+          {
+               "not callable": {
+                    "helptext": [
+                         "Using a variable or object that isn't a function but using it as one, i.e `3(2)`, in this case we are using 3 as a function, if you wanted to multiply you need `3*(2)`",
+                         "Using `tbl.columns` instead of `tbl.column`"
+                    ]
+               }
+          },
+         {
+               "positional arguments": {
+                    "helptext": [
+                         "Using a function that takes in a different number of arguments than provided"
+                    ]
+               }
+          },
+          {
+               "not supported between": {
+                    "helptext": [
+                         "Using two different incompatible object types in an operation like comparison, `3 == [3,3]`. Notice here we want to use a list and number, but this kind of operation isn't allowed, one needs to convert to array with `make_array` or review the problem specifications"
+                    ]
+               }
+          }
+     ],
+     "ValueError": [
+          {
+               "invalid": {
+                    "helptext": [
+                         "Converting something that cannot be converted, i.e `int(\"HELLO WORLD!!\")`"
+                    ]
+               }
+          },
+         {
+               "not in the table": {
+                    "helptext": [
+                         "Misspelling a column label, or using a column name that isn't in the table"
+                    ]
+               }
+          }
+     ]
+}
