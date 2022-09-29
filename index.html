@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Data 8 - Demo Class</title>
+        <!-- Latest compiled and minified Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="./theme/css/main.css" />
+        <link rel="icon" href="favicon.ico" type="image/x-icon"> 
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+</head>
+
+<body id="index" class="home">
+
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="./">
+          Data 8 Demo Class(Based off of UCB Spring 2022 materials)
+        </a>
+
+      </div>
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                  <li><a href="./materials.html">Materials</a></li>
+                  <li><a href="./python-reference.html">Python Reference</a></li>
+                  <li><a href="./supplemental-videos.html">Supplemental Videos</a></li>
+            </ul>
+          </li>
+
+
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </nav>
+
+  <div class="container">
+<section id="content">
+
+
+
+
+<div id="announcements">
+    <div class="announcement" id='announcement-0'>
+    </div>
+</div><!-- /#posts-list -->
+
+<h2>Example Calendar</h2>
+    <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div class="calendar">
+<table>
+<tr>
+<td class="header">Week</td>
+<td class="header">Lecture Number</td>
+<td class="header">Date</td>
+<td class="header">Topic</td>
+<td class="header">Lecture</td>
+<td class="header">Reading</td>
+<td class="header">Lab Worksheets</td>
+<td class="header">Assignment</td>
+</tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 1
+</td><td>
+1
+</td><td>
+Wed 01/19
+</td><td>
+Introduction
+</td><td>
+<a href="https://docs.google.com/presentation/d/1EmWm7OBNghrXFszfk8h3NqPcZIL2myzvkjOz8Ql6Eok/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec01.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=A67W58MDonk&amp;list=PL3juAj0fqNsLLBRFnTAby0VjByHoFb0qQ">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/01/1/intro.html">1.1</a>, <a href="https://www.inferentialthinking.com/chapters/01/2/why-data-science.html">1.2</a>, <a href="https://www.inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html">1.3</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/14suhBCL809ObIFCuwkKtNi57AL4-DRzF9q0jfmr-cA4/edit">Lab 01 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab01/lab01.ipynb">Lab 01: Expressions</a></div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+2
+</td><td>
+Fri 01/21
+</td><td>
+Cause and Effect
+</td><td>
+<a href="https://docs.google.com/presentation/d/1KDzJz4DRLXM8WUogrNvtFYAj48AqCYdqzmEVf3tFX0g/edit">Slides</a>, <a href="https://www.youtube.com/watch?v=GEjqkHexELI">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/02/causality-and-experiments.html">2</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw01/hw01.ipynb">Homework 01</a> (Due Thu 01/27)</div>
+</td></tr>
+<tr class="monday">
+<td rowspan="span">
+Week 2
+</td><td>
+3
+</td><td>
+Mon 01/24
+</td><td>
+Tables
+</td><td>
+<a href="https://docs.google.com/presentation/d/1nsbQlqtg3fVpoq0zKJmVr93p3Y9cCiAqJixxLwiYFYI/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec03.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=oTPPF5axPck">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/03/programming-in-python.html">3</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1NJhq6obYmkYoiXBIuLjoxrFRtjx3722mCVdifk2vIns/edit">Lab 02 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab02/lab02.ipynb">Lab 02: Table Operations</a></div>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+4
+</td><td>
+Wed 01/26
+</td><td>
+Data Types
+</td><td>
+<a href="https://docs.google.com/presentation/d/1SyA6X1ywtPZ5_wrS1nT1pO_2n9AqMJ_hV0Ie1LaG8ho/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec04.ipynb">Demos</a>, <a href="https://youtu.be/G8y-a64esvw">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/04/Data_Types.html">4</a>, <a href="https://www.inferentialthinking.com/chapters/05/Sequences.html">5</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+5
+</td><td>
+Fri 01/28
+</td><td>
+Building Tables
+</td><td>
+<a href="https://docs.google.com/presentation/d/11Kr8WIeLBL2HycxGBH1vBxbLgLU9DIkuH7LgcKFHM4s/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec05.ipynb">Demos</a>, <a href="https://youtu.be/PKyK1fd_81s">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html">6.1</a>, <a href="https://www.inferentialthinking.com/chapters/06/2/Selecting_Rows.html">6.2</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw02/hw02.ipynb">Homework 02</a> (Due Thu 02/03)</div>
+</td></tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 3
+</td><td>
+6
+</td><td>
+Mon 01/31
+</td><td>
+Census
+</td><td>
+<a href="https://docs.google.com/presentation/d/1TIsNWYvYrQt1q6qKFt9PDeoWY6j_RKYOKpomSbx4Kgk/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec06.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=NH09Fjdl56A">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/06/3/Example_Population_Trends.html">6.3</a>, <a href="https://www.inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html">6.4</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1wg6GKdTFvNTqzRhb4Vwt4Q3JZqMpcnNenRrTGkEcZ30/edit">Lab 03 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab03/lab03.ipynb">Lab 03: Data Types and Creating & Extending Tables</a></div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+7
+</td><td>
+Wed 02/02
+</td><td>
+Charts
+</td><td>
+<a href="https://docs.google.com/presentation/d/1j1y1f5sNcP4-QlcSyGf98u22fkUJ3z3HYLYJoq5uQzo/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec07.ipynb">Demos</a>, <a href="https://youtu.be/ZUZ2yFs3WQI">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/07/Visualization.html">7</a>, <a href="https://www.inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html">7.1</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+8
+</td><td>
+Fri 02/04
+</td><td>
+Histograms
+</td><td>
+<a href="https://docs.google.com/presentation/d/1aImxbohb8AUIV5AiBE1fe74kj4e5lQMNSDKjJjVe5UE/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec08.ipynb">Demos</a>, <a href="https://youtu.be/DIsb7yIqaI4">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html">7.2</a>, <a href="https://www.inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html">7.3</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw03/hw03.ipynb">Homework 03</a> (Due Thu 02/10)</div>
+</td></tr>
+<tr class="monday">
+<td rowspan="span">
+Week 4
+</td><td>
+9
+</td><td>
+Mon 02/07
+</td><td>
+Functions
+</td><td>
+<a href="https://docs.google.com/presentation/d/1P4FPpVR0f1Wj1t7ljt_5SNMSuUHeouYRHcAEQtIZSPY/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec09.ipynb">Demos</a>, <a href="https://youtu.be/l5DS6dk3kIA">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html">8</a>, <a href="https://www.inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html">8.1</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1WDqYCvv43XsqDT7ppeddQ-Ww-zHg_48DtlXrOe-qUdI/edit">Lab 04 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab04/lab04.ipynb">Lab 04: Functions and Visualizations</a></div>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+10
+</td><td>
+Wed 02/09
+</td><td>
+Groups
+</td><td>
+<a href="https://docs.google.com/presentation/d/1Np1iiEXuzBW3zL4tsSQ4tOqWrR8H6U2MS7QUMz403Xw/edit#slide=id.g6e7a646a84_0_205">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec10.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=acK3KAagCUc">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html">8.2</a>, <a href="https://www.inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html">8.3</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+11
+</td><td>
+Fri 02/11
+</td><td>
+Pivots and Joins
+</td><td>
+<a href="https://docs.google.com/presentation/d/1jsepnam6tJ1-onUC0zuqJlgfOlpD8TL712TJwaAmYc4/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec11.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=ZKsdrPVc61g">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html">8.4</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw04/hw04.ipynb">Homework 04</a> (Due Thu 02/17)</div>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/project/project1/project1.ipynb">Project 1: World Progress</a></div>
+<div>(Due Fri 02/25; Checkpoint Fri 02/18)</div>
+</td></tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 5
+</td><td>
+12
+</td><td>
+Mon 02/14
+</td><td>
+Table Examples
+</td><td>
+<a href="https://docs.google.com/presentation/d/1YEkJ1K49q8ntFfTn3LN2upN3w2n5b-n4X6HOpssxql0/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec12.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=VvzHwI85Lg8">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html">8.5</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1m8nls7JjY_MuH_hAsZl_1uesdkDEwzkJrl8KjMcEU7A/edit">Project 1 Lab Worksheet</a></div>
+</td><td>
+<div>Lab: Project 1</div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+13
+</td><td>
+Wed 02/16
+</td><td>
+Conditionals and Iteration
+</td><td>
+<a href="https://docs.google.com/presentation/d/1D7gqLZCEOaFgki05HCNZOJO9dsFBFau3nguuechbPZ0/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec13.ipynb">Demos</a>, <a href="https://youtu.be/-UhcNhNFln0">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/09/Randomness.html">9</a>, <a href="https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html">9.1</a>, <a href="https://www.inferentialthinking.com/chapters/09/2/Iteration.html">9.2</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+14
+</td><td>
+Fri 02/18
+</td><td>
+Chance
+</td><td>
+<a href="https://docs.google.com/presentation/d/1n_Nf8Htm2y2jlfzpNPwUoDgH3GHR0fJvSpzc4l2hB8o/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec14.ipynb">Demos</a>, <a href="https://youtu.be/Z4PP4wfbeOQ">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/09/2/Iteration.html">9.2</a>, <a href="https://www.inferentialthinking.com/chapters/09/3/Simulation.html">9.3</a>, <a href="https://www.inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html">9.4</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw05/hw05.ipynb">Homework 05</a> (Due Thu 02/24)</div>
+</td></tr>
+<tr class="monday">
+<td rowspan="span">
+Week 6
+</td><td>
+0
+</td><td>
+Mon 02/21
+</td><td>
+Holiday: No class
+</td><td>
+</td><td>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1w-9UkpoCNA5Orlg-Al469MJf8tW-2Fcjf76e6gEEz1E/edit?usp=sharing">Lab 05 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab05/lab05.ipynb">Lab 05: Conditional Statements, Iteration, Tables</a></div>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+15
+</td><td>
+Wed 02/23
+</td><td>
+Sampling
+</td><td>
+<a href="https://docs.google.com/presentation/d/1VQxr9XkxhW1QC_UpnoEkxzoUTtjJF8k3DMR8UpKMbLQ/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec15.ipynb">Demos</a>, <a href="https://youtu.be/fD2wGhOo-Ng">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/09/5/Finding_Probabilities.html">9.5</a>, <a href="https://www.inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html">10</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+16
+</td><td>
+Fri 02/25
+</td><td>
+Models
+</td><td>
+<a href="https://docs.google.com/presentation/d/1_Op0KF653nbAeASpT7aBWQ-zkf7jeZ2MU5oJP8I2AlQ/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec16.ipynb">Demos</a>, <a href="https://youtu.be/kiu3ZStwXY8">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html">10.2</a>, <a href="https://www.inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html">10.3</a>, <a href="https://www.inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html">10.4</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw06/hw06.ipynb">Homework 06</a> (Due Thu 03/03)</div>
+</td></tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 7
+</td><td>
+17
+</td><td>
+Mon 02/28
+</td><td>
+Comparing Distributions
+</td><td>
+<a href="https://docs.google.com/presentation/d/1QVV2knpSQ36LebSg5hT1y6vjppEgqmEobkxmrcD7P2w/edit#slide=id.g703dc8c637_0_18">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec17.ipynb">Demos</a>, <a href="https://youtu.be/ondio0efWMo">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/11/1/Assessing_a_Model.html">11.1</a>, <a href="https://www.inferentialthinking.com/chapters/11/2/Multiple_Categories.html">11.2</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1P0u9azwjJQjKOifSj-awd310UBNLbFl5WssnB-U6C7I/edit?usp=sharing">Lab 06 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab06/lab06.ipynb">Lab 06: Assessing Models</a></div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+18
+</td><td>
+Wed 03/02
+</td><td>
+Decisions and Uncertainty
+</td><td>
+<a href="https://docs.google.com/presentation/u/1/d/1VD9Wlm7FxQvrckkGzxYWk6M21EX0JiD1sRCqldnfVXA/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec18.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=C8EbzXMagtQ">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html">11.3</a>, <a href="https://www.inferentialthinking.com/chapters/11/4/Error_Probabilities.html">11.4</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw07/hw07.ipynb">Homework 07</a> (Due Thu 03/10)</div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+19
+</td><td>
+Fri 03/04
+</td><td>
+A/B Testing
+</td><td>
+<a href="https://docs.google.com/presentation/d/1eWTGYB1lYbnGSwECVNwVl78PJzhs1NjIjT7tOrBbA9o/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec19.ipynb">Demos</a>, <a href="https://youtu.be/d-KZHimvbxg">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/11/4/Error_Probabilities.html">11.4</a>, <a href="https://www.inferentialthinking.com/chapters/12/1/AB_Testing.html">12.1</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td rowspan="span">
+Week 8
+</td><td>
+20
+</td><td>
+Mon 03/07
+</td><td>
+Causality
+</td><td>
+<a href="https://docs.google.com/presentation/d/1GOscWz3AUMrUzS799sJm1lGAjbVjtQGiNyo_XDfq-bE/edit">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec20.ipynb">Demos</a>, <a href="https://youtu.be/fD_VNWNIHDk">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/12/2/Causality.html">12.2</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1bg-Dr8UfgEYsVntcPx2Fq6ZSQe4GI1I4pbdJ8vLBTjw/edit?usp=sharing">Midterm Lab Worksheet</a></div>
+</td><td>
+<div>Lab: Midterm Review</div>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+21
+</td><td>
+Wed 03/09
+</td><td>
+Examples
+</td><td>
+<a href="https://docs.google.com/presentation/d/1chUDcsC3eGhG6afqBY5bN02CZth3b1woqETTind9tKM/edit#slide=id.gf59a8db61b_3_28">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec21.ipynb">Demos</a>, <a href="https://youtu.be/tjTFPFeg1Hk">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/12/3/Deflategate.html">12.3</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+22
+</td><td>
+Fri 03/11
+</td><td>
+Midterm Review
+</td><td>
+<a href="https://docs.google.com/presentation/d/1ggzYvDLhhPYOqmNdAdlsc2YrUdddcjYQcXZyJwM8wyc/edit?usp=sharing">Slides</a>, <a href="https://youtu.be/oTwr-hGvAho">Video</a>
+</td><td>
+</td><td>
+</td><td>
+<div>Midterm (7 PM - 9 PM)</div>
+</td></tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 9
+</td><td>
+23
+</td><td>
+Mon 03/14
+</td><td>
+Confidence Intervals
+</td><td>
+<a href="https://docs.google.com/presentation/d/1HaFDbIxRnq8MkUmG54-PPHPCWYtI2wx0ENf0SGOd0z4/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec23.ipynb">Demos</a>, <a href="https://youtu.be/g5ySSjoQESQ">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/13/Estimation.html">13</a>, <a href="https://www.inferentialthinking.com/chapters/13/1/Percentiles.html">13.1</a>, <a href="https://www.inferentialthinking.com/chapters/13/2/Bootstrap.html">13.2</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/106UVYPVMjJoWS-dXV_JzFuMvRIaSo1UqUHOyDRBxvA0/edit#heading=h.gjdgxs">Lab 07 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab07/lab07.ipynb">Lab 07: A/B Testing</a></div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+24
+</td><td>
+Wed 03/16
+</td><td>
+Interpreting Confidence
+</td><td>
+<a href="https://docs.google.com/presentation/d/11NEXvMgjZERCbiXWLuEARNgKNlAV8M3Jr08UjVfKQUU/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec24.ipynb">Demos</a>, <a href="https://youtu.be/XqXoOuXg-74">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/13/3/Confidence_Intervals.html">13.3</a>, <a href="https://www.inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html">13.4</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+25
+</td><td>
+Fri 03/18
+</td><td>
+Center and Spread
+</td><td>
+<a href="https://docs.google.com/presentation/d/1q6HylKNu-TmAzGxTzY6tgHaSPye-PUMRZ9mMnXrvJfk/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec25.ipynb">Demos</a>, <a href="https://youtu.be/SVAdCdjdRFw">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html">14</a>, <a href="https://www.inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html">14.1</a>, <a href="https://www.inferentialthinking.com/chapters/14/2/Variability.html">14.2</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw08/hw08.ipynb">Homework 08</a> (Due Thu 03/31)</div>
+</td></tr>
+<tr class="monday">
+<td rowspan="span">
+Week 10
+</td><td>
+0
+</td><td>
+Mon 03/21
+</td><td>
+Holiday: No class
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+0
+</td><td>
+Wed 03/23
+</td><td>
+Holiday: No class
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+0
+</td><td>
+Fri 03/25
+</td><td>
+Holiday: No class
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 11
+</td><td>
+26
+</td><td>
+Mon 03/28
+</td><td>
+The Normal Distribution
+</td><td>
+<a href="https://docs.google.com/presentation/d/1dCqfLwaKP4uYk3Iv89zEAnWM1bPh3ZcnuqvQxrFm0cE/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec26.ipynb">Demos</a>, <a href="https://youtu.be/_ztwQ6osfBU">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html">14.3</a>, <a href="https://www.inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html">14.4</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1lC-k9Y1s1ymzjLCVgdNKOJ8JxcL7tCRC4ag3f3UX5xY/edit">Lab 08 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab08/lab08.ipynb">Lab 08: Sample Means</a></div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+27
+</td><td>
+Wed 03/30
+</td><td>
+Sample Means
+</td><td>
+<a href="https://docs.google.com/presentation/d/17wtexvAhN2NLd4VdUSfgheSQyrBpDR6l2t1J9Pe6Rno/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec27.ipynb">Demos</a>, <a href="https://youtu.be/rWjKVzWOWBQ">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html">14.5</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+28
+</td><td>
+Fri 04/01
+</td><td>
+Designing Experiments
+</td><td>
+<a href="https://docs.google.com/presentation/d/15PrjQDt92sXyuwqdQHbdU_m-F42tHVLZcn-OSFnEAU8/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec28.ipynb">Demos</a>, <a href="https://www.youtube.com/watch?v=X_-I0JdNb18">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html">14.6</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw09/hw09.ipynb">Homework 09</a> (Due Thu 04/07)</div>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/project/project2/project2.ipynb">Project 2: Climate</a></div>
+<div>(Due Fri 04/15; Checkpoint Fri 04/08)</div>
+</td></tr>
+<tr class="monday">
+<td rowspan="span">
+Week 12
+</td><td>
+29
+</td><td>
+Mon 04/04
+</td><td>
+Correlation
+</td><td>
+<a href="https://docs.google.com/presentation/d/1r--iWcNDQ2ozWF-mMsRupqFIHb5qt7FlyhV8NMKG9cc/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec29.ipynb">Demos</a>, <a href="https://youtu.be/8sX_uQUhPl0">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/15/Prediction.html">15</a>, <a href="https://www.inferentialthinking.com/chapters/15/1/Correlation.html">15.1</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1Ot5nKIet60Wtn6DOIg5gRQrQ97q51ZISEAUj4WrLMfI/edit?usp=sharing">Project 2 Lab Worksheet</a></div>
+</td><td>
+<div>Lab: Project 2</div>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+30
+</td><td>
+Wed 04/06
+</td><td>
+Linear Regression
+</td><td>
+<a href="https://docs.google.com/presentation/d/1-Tbl9gxP2x4BjTG0lEpCqp3KZKk2OOG9MC0cRJYoRys/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec30.ipynb">Demos</a>, <a href="https://youtu.be/cPJRpfONHhY">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/15/2/Regression_Line.html">15.2</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+31
+</td><td>
+Fri 04/08
+</td><td>
+Least Squares
+</td><td>
+<a href="https://docs.google.com/presentation/d/12OO8Wwk11yNFJ8kU9K8tBaeL0JzpyXpgrklkbSEQS-g/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec31.ipynb">Demos</a>, <a href="https://youtu.be/ThfdnVkirtE">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html">15.3</a>, <a href="https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html">15.4</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw10/hw10.ipynb">Homework 10</a> (Due Thu 04/14)</div>
+</td></tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 13
+</td><td>
+32
+</td><td>
+Mon 04/11
+</td><td>
+Residuals
+</td><td>
+<a href="https://docs.google.com/presentation/d/1qVNFvAi3v8E1pSgdRgFNwxjuRC5REAjvIAK_CCaCVVY/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec32.ipynb">Demos</a>, <a href="https://youtu.be/kDqq-qMML4I">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html">15.5</a>, <a href="https://www.inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html">15.6</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1Q8nsbyOWf-gdCsMWV9yrBf0rzEhUkJ7YJ-bIVR_oi7c/edit">Lab 09 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab09/lab09.ipynb">Lab 09: Regression</a></div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+33
+</td><td>
+Wed 04/13
+</td><td>
+Regression Inference
+</td><td>
+<a href="https://docs.google.com/presentation/d/1ZLkVyO19u-n3ZXmAYeJ4im_TAy9C_fnjwS0CBWFp2Pc/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec33.ipynb">Demos</a>, <a href="https://youtu.be/BnYXQjJ1wog">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html">16</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+34
+</td><td>
+Fri 04/15
+</td><td>
+Privacy (Guest Lecture)
+</td><td>
+<a href="https://drive.google.com/file/d/1u82AhbGD3B1tjVFgOe_D3qSpD2ZJBFJf/view?usp=sharing">Slides</a>, <a href="https://youtu.be/ihc3k5Ov9ec">Video</a>
+</td><td>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw11/hw11.ipynb">Homework 11</a> (Due Fri 04/22)</div>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/project/project3/project3.ipynb">Project 3: Classifying Movies</a></div>
+<div>(Due Fri 04/29; Checkpoint Mon 04/25)</div>
+</td></tr>
+<tr class="monday">
+<td rowspan="span">
+Week 14
+</td><td>
+35
+</td><td>
+Mon 04/18
+</td><td>
+Classification
+</td><td>
+<a href="https://docs.google.com/presentation/d/1ZUD4vDYYpNc-qa6S3AVVnZHOXA90XsNX5IZiPUeRpxc/edit#slide=id.ga249b0d73a_0_0">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec35.ipynb">Demos</a>, <a href="https://youtu.be/U2LBRcPH1A4">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/17/Classification.html">17</a>, <a href="https://www.inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html">17.1</a>, <a href="https://www.inferentialthinking.com/chapters/17/2/Training_and_Testing.html">17.2</a>, <a href="https://www.inferentialthinking.com/chapters/17/3/Rows_of_Tables.html">17.3</a>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1NOh4nAdjMUoljexdppgT6RbHExYoKtEy6OnDWpRlir0/edit">Project 3 Lab Worksheet</a></div>
+</td><td>
+<div>Lab: Project 3</div>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+36
+</td><td>
+Wed 04/20
+</td><td>
+Classifiers
+</td><td>
+<a href="https://docs.google.com/presentation/d/1oY4JotwnPv84ZVTiBdn9fJCbxvI2yGZudEmk-l1azwc/edit#slide=id.gacacd929bc_0_0">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec36.ipynb">Demos</a>, <a href="https://youtu.be/XwMPGx9LJDU">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html">17.4</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="monday">
+<td>
+</td><td>
+37
+</td><td>
+Fri 04/22
+</td><td>
+Updating Probabilities
+</td><td>
+<a href="https://docs.google.com/presentation/d/1VOaWBBXGrHzBwsxAVn4vei9JRoJV1hi-L0SykeuZNcg/edit#slide=id.g83beeb7afa_0_54">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec37.ipynb">Demos</a>, <a href="https://youtu.be/rQkLwLNbNKE">Video</a>
+</td><td>
+<a href="https://www.inferentialthinking.com/chapters/18/Updating_Predictions.html">18</a>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw12/hw12.ipynb">Homework 12</a> (Due Thu 04/28)</div>
+</td></tr>
+<tr class="wednesday">
+<td rowspan="span">
+Week 15
+</td><td>
+38
+</td><td>
+Mon 04/25
+</td><td>
+Case Study: Health
+</td><td>
+<a href="https://docs.google.com/presentation/d/1BAKxqrRyxCY6h40N9fGynjtggRseNMFR1WX8Zs2UjeE/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec38.ipynb">Demos</a>, <a href="https://youtu.be/XiLK2al764c">Video</a>
+</td><td>
+</td><td>
+<div><a href="https://docs.google.com/document/d/1DBNA_97UX_DUTupOEXlTwqwvNDOiNkbNqCW2sHDwAuM/edit?usp=sharing">Lab 10 Worksheet</a></div>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/lab/lab10/lab10.ipynb">Lab 10: Conditional Probability</a></div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+39
+</td><td>
+Wed 04/27
+</td><td>
+Case Study: Education
+</td><td>
+<a href="https://docs.google.com/presentation/d/1y0PwxxyyHDsB5QOJB83BDBL9a8AlCJtHbDO9PAg245Y/edit?usp=sharing">Slides</a>, <a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/lec/lec39.ipynb">Demos</a>, <a href="https://youtu.be/zjEe1IJMVIc">Video</a>
+</td><td>
+</td><td>
+</td><td>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+40
+</td><td>
+Fri 04/29
+</td><td>
+Conclusion
+</td><td>
+<a href="https://docs.google.com/presentation/d/1sN8t3qOR4598-9r8ruSnTeLfp3EqQhPv2TtCWFy4eRU/edit#slide=id.g610d9f86d0_0_5">Slides</a>, <a href="https://youtu.be/rXlh7W5lsiM">Video</a>
+</td><td>
+</td><td>
+</td><td>
+<div><a href="http://data8.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/data-8/materials-sp22&amp;urlpath=retro/notebooks/materials-sp22/materials/sp22/hw/hw13/hw13.ipynb">Homework 13</a> (Due Thu 05/05)</div>
+</td></tr>
+<tr class="wednesday">
+<td>
+</td><td>
+0
+</td><td>
+Tue 05/10
+</td><td>
+Final Exam
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+<div>Final (3 PM - 6 PM)</div>
+</td></tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: 'center'," +
+        "    displayIndent: '0em'," +
+        "    showMathMenu: true," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['$','$'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }" +
+        "    } " +
+        "}); ";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script>
+
+
+</section><!-- /#content -->
+  </div>
+  <footer id="contentinfo" class="body">
+  </footer><!-- /#contentinfo -->
+
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- Latest compiled and minified Bootstrap JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script>
+  $(document).ready(function() {
+
+    // Announcements
+    var announcementIndex = 0;
+
+    function setAnnouncements(offset) {
+      var newIndex = announcementIndex  + offset;
+      var announcementNumber = $('.announcement').length;
+
+      if (newIndex < 0 || newIndex >= announcementNumber) {
+        return;
+      }
+
+      $('#announcement-' + announcementIndex).hide(0, function() {
+        $('#announcement-' + newIndex).show(0);
+      });
+
+      announcementIndex = newIndex;
+
+      if (announcementIndex >= announcementNumber - 1) {
+        $('#announcement-' + announcementIndex + ' .announcement-btn-older')
+          .addClass('disabled');
+      }
+      if (announcementIndex === 0) {
+        $('#announcement-' + announcementIndex + ' .announcement-btn-newer')
+          .addClass('disabled');
+      }
+    }
+    setAnnouncements(0);
+
+    $('.announcement-btn-newer > a').click(function() {
+      setAnnouncements(-1);
+    });
+    $('.announcement-btn-older > a').click(function() {
+      setAnnouncements(1);
+    });
+  });
+
+</script>
+
+</body>
+</html>

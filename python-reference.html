@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Data 8 - Demo Class</title>
+        <!-- Latest compiled and minified Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="./theme/css/main.css" />
+        <link rel="icon" href="favicon.ico" type="image/x-icon"> 
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+</head>
+
+<body id="index" class="home">
+
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="./">
+          Data 8 Demo Class(Based off of Spring 2020 materials)
+        </a>
+
+      </div>
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                  <li><a href="./materials.html">Materials</a></li>
+                  <li><a href="./python-reference.html">Python Reference</a></li>
+                  <li><a href="./supplemental-videos.html">Supplemental Videos</a></li>
+            </ul>
+          </li>
+
+
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </nav>
+
+  <div class="container">
+    <h2>Python Reference</h2>
+    
+
+    <style>
+
+th {
+    text-align: left
+}
+
+table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table > thead > tr > td,
+table > tbody > tr > td, table > tfoot > tr > td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd
+}
+
+table > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd
+}
+
+table > caption + thead > tr:first-child > th, table > colgroup + thead > tr:first-child > th,
+table > thead:first-child > tr:first-child > th, table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > td, table > thead:first-child > tr:first-child > td {
+    border-top: 0
+}
+
+table > tbody + tbody {
+    border-top: 2px solid #ddd
+}
+
+table {
+    border: 1px solid #ddd;
+    border-spacing: 0;
+    border-collapse: collapse;
+    background-color: #fff;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px
+}
+
+td, th {
+    padding: 0
+}
+
+table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th,
+table > thead > tr > td, table > tbody > tr > td, table > tfoot > tr > td {
+    border: 1px solid #ddd
+}
+
+table > thead > tr > th, table > thead > tr > td {
+    border-bottom-width: 2px
+}
+
+table > tbody > tr:nth-child(odd) {
+    background-color: #f9f9f9
+}
+
+</style>
+
+<p>Created by Nishant Kheterpal and Jessica Hu</p>
+<p>Modified by Yanay Rosen</p>
+<h3>Table Functions and Methods</h3>
+<p>In the examples in the left column, <code>np</code> refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, <code>tbl</code> refers to a table, <code>array</code> refers to an array, and <code>num</code> refers to a number. <code>array.item(0)</code> is an example call for the method <code>item</code>, and in that example, <code>array</code> is the name previously given to some array.</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th align="center">Chapter</th>
+<th>Description</th>
+<th>Input</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>Table()</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Create an empty table, usually to extend with data</td>
+<td>None</td>
+<td>An empty <strong>Table</strong></td>
+</tr>
+<tr>
+<td><code>Table().read_table(filename)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Create a table from a data file</td>
+<td><strong>string</strong>: the name of the file</td>
+<td><strong>Table</strong> with the contents of the data file</td>
+</tr>
+<tr>
+<td><code>tbl.with_columns(name, values) tbl.with_columns(n1, v1, n2, v2,...)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>A table with an additional or replaced column or columns. <code>name</code> is a string for the name of a column, <code>values</code> is an array</td>
+<td>1. <strong>string</strong>: the name of the new column;<br>2. <strong>array</strong>: the values in that column</td>
+<td><strong>Table</strong>: a copy of the original Table with the new columns added</td>
+</tr>
+<tr>
+<td><code>tbl.column(column_name_or_index)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>The values of a column (an array)</td>
+<td><strong>string</strong> <em>or</em> <strong>int</strong>: the column name or index</td>
+<td><strong>array</strong>: the values in that column</td>
+</tr>
+<tr>
+<td><code>tbl.row(i)</code></td>
+<td align="center"><a href="https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html">17.3</a></td>
+<td>Returns a row object from the table</td>
+<td><strong>int</strong>: the index of the row to return</td>
+<td><strong>row</strong>: a row object</td>
+</tr>
+<tr>
+<td><code>tbl.num_rows</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Compute the number of rows in a table</td>
+<td>None</td>
+<td><strong>int</strong>: the number of rows in the table</td>
+</tr>
+<tr>
+<td><code>tbl.num_columns</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Compute the number of columns in a table</td>
+<td>None</td>
+<td><strong>int</strong>: the number of columns in the table</td>
+</tr>
+<tr>
+<td><code>tbl.labels</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Lists the column labels in a table</td>
+<td>None</td>
+<td><strong>array</strong>: the names of each column (as strings) in the table</td>
+</tr>
+<tr>
+<td><code>tbl.select(col1, col2, ...)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Create a copy of a table with only some of the columns. Each column is the column name or index.</td>
+<td><strong>string</strong> <em>or</em> <strong>int</strong>: column name(s) or index(es)</td>
+<td><strong>Table</strong> with the selected columns</td>
+</tr>
+<tr>
+<td><code>tbl.drop(col1, col2, ...)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Create a copy of a table without some of the columns. Each column is the column name or index.</td>
+<td><strong>string</strong> <em>or</em> <strong>int</strong>: column name(s) or index(es)</td>
+<td><strong>Table</strong> without the selected columns</td>
+</tr>
+<tr>
+<td><code>tbl.relabeled(old_label, new_label)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/Tables.html">6</a></td>
+<td>Modifies the existing table <em>in place</em>, changing the column heading in the first argument to the second</td>
+<td>1. <strong>string</strong>: the old column name<br>2. <strong>string</strong>: the new column name</td>
+<td><strong>Table</strong>: a copy of the original with the changed label</td>
+</tr>
+<tr>
+<td><code>tbl.show(n)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html">6.1</a></td>
+<td>Display <code>n</code> rows of a table. If no argument is specified, defaults to displaying the entire table.</td>
+<td>(Optional) <strong>int</strong>: number of rows you want to display</td>
+<td>None: displays a table with <code>n</code> rows</td>
+</tr>
+<tr>
+<td><code>tbl.sort(column_name_or_index)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html">6.1</a></td>
+<td>Create a copy of a table sorted by the values in a column. Defaults to ascending order unless <code>descending = True</code> is included.</td>
+<td>1. <strong>string</strong> <em>or</em> <strong>int</strong>: column index or name<br>2. (Optional) <code>descending = True</code></td>
+<td><strong>Table</strong>: a copy of the original with the column sorted</td>
+</tr>
+<tr>
+<td><code>tbl.where(column, predicate)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/2/Selecting_Rows.html">6.2</a></td>
+<td>Create a copy of a table with only the rows that match some <em>predicate</em> See <code>Table.where</code> predicates below.</td>
+<td>1. <strong>string</strong> <em>or</em> <strong>int</strong>: column name or index<br>2. <code>are.(...)</code> predicate or array of boolean values corresponding to rows to include</td>
+<td><strong>Table</strong>: a copy of the original table with only the rows that match the predicate</td>
+</tr>
+<tr>
+<td><code>tbl.take(row_indices)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/06/2/Selecting_Rows.html">6.2</a></td>
+<td>A table with only the rows at the given indices. <code>row_indices</code> is either an array of indices or an integer corresponding to one index.</td>
+<td><strong>array</strong> of ints: the indices of the rows to be included in the Table OR <strong>int</strong>: the index of the row to be included</td>
+<td><strong>Table</strong>: a copy of the original table with only the rows at the given indices</td>
+</tr>
+<tr>
+<td><code>tbl.scatter(x_column, y_column, group=)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/07/Visualization.html">7</a></td>
+<td>Draws a scatter plot consisting of one point for each row of the table. Note that <code>x_column</code> and <code>y_column</code> must be strings specifying column names.</td>
+<td>1. <strong>string</strong>: name of the column on the x-axis<br>2. <strong>string</strong>: name of the column on the y-axis<br>3. <strong>string</strong>: name of categorical column to color points by.</td>
+<td>None: draws a scatter plot</td>
+</tr>
+<tr>
+<td><code>tbl.plot(x_column, y_column)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/07/Visualization.html">7</a></td>
+<td>Draw a line graph consisting of one point for each row of the table. Draws different color lines for each other numerical column if only the x axis label is specified.</td>
+<td>1. <strong>string</strong>: name of the column on the x-axis<br>2. <strong>string</strong>: name of the column on the y-axis.</td>
+<td>None: draws a line graph</td>
+</tr>
+<tr>
+<td><code>tbl.barh(categories) tbl.barh(categories, values)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html">7.1</a></td>
+<td>Displays a bar chart with bars for each category in a column, with height proportional to the corresponding frequency. If the values argument is not specified, bars will be drawn with different colors for each other column in the table.</td>
+<td>1. <strong>string</strong>: name of the column with categories<br>2. (Optional) <strong>string</strong>: the name of the column with values for corresponding categories</td>
+<td>None: draws a bar chart</td>
+</tr>
+<tr>
+<td><code>tbl.hist(column, unit=, bins=, group=)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html">7.2</a></td>
+<td>Generates a histogram of the numerical values in a column. <code>unit</code> and <code>bins</code> are optional arguments, used to label the axes and group the values into intervals (bins), respectively. Bins have the form <code>[a, b)</code>, where <code>a</code> is included in the bin and <code>b</code> is not.</td>
+<td>1. <strong>string</strong>: name of the column with categories<br>2. (Optional) <strong>string</strong>: units of x-axis<br>3. (Optional) <strong>array</strong> of ints/floats denoting bin boundaries<br>4. <strong>string</strong>: name of categorical column to draw separate overlaid histograms for.</td>
+<td>None: draws a histogram</td>
+</tr>
+<tr>
+<td><code>tbl.bin(column, bins=)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html">7.2</a></td>
+<td>Generates a binned table for the numerical values in a column. <code>bins</code> is an optional arguments, used to group the values into intervals (bins). Bins have the form <code>[a, b)</code>, where <code>a</code> is included in the bin and <code>b</code> is not.</td>
+<td>1. <strong>string</strong>: name of the column with categories<br>2. (Optional) <strong>array</strong> of ints/floats denoting bin boundaries.</td>
+<td><strong>Table</strong>: a table with the columns <code>bin</code>, containing the left ends of each bin, and <code>column count</code>, containing the counts of rows that had <code>column</code> values fall into the corresponding bin.</td>
+</tr>
+<tr>
+<td><code>tbl.apply(function, col1, col2, ...)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html">8.1</a></td>
+<td>Returns an array of values resulting from applying a function to each item in a column.</td>
+<td>1. <strong>function</strong>: function to apply to column<br>2. (Optional) <strong>string</strong>: name of the column to apply function to (if you have multiple columns, the respective column's values will be passed as the corresponding argument to the function), and if there is no argument, your function will be applied to every row in tbl</td>
+<td><strong>array</strong>: contains an element for each value in the original column after applying the function to it</td>
+</tr>
+<tr>
+<td><code>tbl.group(column_or_columns, func)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html">8.2</a></td>
+<td>Group rows by unique values or combinations of values in a column(s). Multiple columns must be entered in array or list form. Other values aggregated by count (default) or optional argument <code>func</code>.</td>
+<td>1. <strong>string</strong> or <strong>array of strings</strong>: column(s) on which to group<br>2. (Optional) <strong>function</strong>: function to aggregate values in cells (defaults to count)</td>
+<td><strong>Table</strong>: a new Table</td>
+</tr>
+<tr>
+<td><code>tbl.pivot(col1, col2, values, collect) tbl.pivot(col1, col2)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/08/3/Classifying_by_More_than_One_Variable.html">8.3</a></td>
+<td>A pivot table where each unique value in <code>col1</code> has its own column and each unique value in <code>col2</code> has its own row. Count or aggregate values from a third column, collect with some function. Default <code>values</code> and <code>collect</code> return counts in cells.</td>
+<td>1. <strong>string</strong>: name of column whose unique values will make up columns of pivot table<br>2. <strong>string</strong>: name of column whose unique values will make up rows of pivot table<br>3. (Optional) <strong>string</strong>: name of column that describes the values of cell<br>4. (Optional) <strong>function</strong>: how the values are collected, e.g. <code>sum</code> or <code>np.mean</code></td>
+<td><strong>Table</strong>: a new Table</td>
+</tr>
+<tr>
+<td><code>tblA.join(colA, tblB, colB) tblA.join(colA, tblB)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html">8.4</a></td>
+<td>Generate a table with the columns of tblA and tblB, containing rows for all values of a column that appear in both tables. Default <code>colB</code> is <code>colA</code>. <code>colA</code> and <code>colB</code> must be strings specifying column names.</td>
+<td>1. <strong>string</strong>: name of column in tblA with values to join on<br>2. <strong>Table</strong>: other Table<br>3. (Optional) <strong>string</strong>: if column names are different between Tables, the name of the shared column in tblB</td>
+<td><strong>Table</strong>: a new Table</td>
+</tr>
+<tr>
+<td><code>tbl.sample(n) tbl.sample(n, with_replacement)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html">10</a></td>
+<td>A new table where <code>n</code> rows are randomly sampled from the original table; by default, <code>n=tbl.num_rows</code>. Default is with replacement. For sampling without replacement, use argument <code>with_replacement=False</code>. For a non-uniform sample, provide a third argument <code>weights=distribution</code> where <code>distribution</code> is an array or list containing the probability of each row.</td>
+<td>1. <strong>int</strong>: sample size<br>2. (Optional) <code>with_replacement=True</code></td>
+<td><strong>Table</strong>: a new Table with <code>n</code> rows</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<h3>String Methods</h3>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th align="center">Chapter</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>str.split(separator)</code></td>
+<td align="center">N/A</td>
+<td>Splits the string (<code>str</code>) into a list based on the <code>separator</code> that is passed in</td>
+</tr>
+<tr>
+<td><code>str.join(array)</code></td>
+<td align="center">N/A</td>
+<td>Combines each element of <code>array</code> into one string, with <code>str</code> being in-between each element</td>
+</tr>
+<tr>
+<td><code>str.replace(old_string, new_string)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/04/2/1/String_Methods.html">4.2.1</a></td>
+<td>Replaces each occurrence of <code>old_string</code> in <code>str</code> with the value of <code>new_string</code></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<h3>Array Functions and Methods</h3>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th align="center">Chapter</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>max(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/03/3/Calls.html">3.3</a></td>
+<td>Returns the maximum value of an array</td>
+</tr>
+<tr>
+<td><code>min(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/03/3/Calls.html">3.3</a></td>
+<td>Returns the minimum value of an array</td>
+</tr>
+<tr>
+<td><code>sum(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/03/3/Calls.html">3.3</a></td>
+<td>Returns the sum of the values in an array</td>
+</tr>
+<tr>
+<td><code>abs(num), np.abs(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/03/3/Calls.html">3.3</a></td>
+<td>Take the absolute value of number or each number in an array.</td>
+</tr>
+<tr>
+<td><code>round(num), np.round(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/03/3/Calls.html">3.3</a></td>
+<td>Round number or array of numbers to the nearest integer.</td>
+</tr>
+<tr>
+<td><code>len(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/03/3/Calls.html">3.3</a></td>
+<td>Returns the length (number of elements) of an array</td>
+</tr>
+<tr>
+<td><code>make_array(val1, val2, ...)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/05/Sequences.html">5</a></td>
+<td>Makes a numpy array with the values passed in</td>
+</tr>
+<tr>
+<td><code>np.average(array) np.mean(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/05/1/Arrays.html">5.1</a></td>
+<td>Returns the mean value of an array</td>
+</tr>
+<tr>
+<td><code>np.median(array)</code></td>
+<td align="center"><a href="https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html#parameter">10.3</a></td>
+<td>Returns the median, 'middle', value of an array</td>
+</tr>
+<tr>
+<td><code>np.std(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/14/2/Variability.html#Standard-Deviation">14.2</a></td>
+<td>Returns the standard deviation of an array</td>
+</tr>
+<tr>
+<td><code>np.diff(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/05/1/Arrays.html">5.1</a></td>
+<td>Returns a new array of size <code>len(arr)-1</code> with elements equal to the difference between adjacent elements; val_2 - val_1, val_3 - val_2, etc.</td>
+</tr>
+<tr>
+<td><code>np.cumsum(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/05/1/Arrays.html">5.1</a></td>
+<td>Returns a new array of size <code>len(arr)</code> with elements equal to the cummulative sum of previous elements; val_1, val_1 + val_2, val_1 + val_2 + val_3 etc.</td>
+</tr>
+<tr>
+<td><code>np.sqrt(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/05/1/Arrays.html">5.1</a></td>
+<td>Returns an array with the square root of each element</td>
+</tr>
+<tr>
+<td><code>np.arange(start, stop, step) np.arange(start, stop) np.arange(stop)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/05/2/Ranges.html">5.2</a></td>
+<td>An array of numbers starting with <code>start</code>, going up in increments of <code>step</code>, and going up to but excluding <code>stop</code>. When <code>start</code> and/or <code>step</code> are left out, default values are used in their place. Default step is 1; default start is 0.</td>
+</tr>
+<tr>
+<td><code>array.item(index)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/05/3/More_On_Arrays.html">5.3</a></td>
+<td>Returns the i-th item in an array (remember Python indices start at 0!)</td>
+</tr>
+<tr>
+<td><code>np.random.choice(array, n) np.random.choice(array) np.random.choice(array, n, replace)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/09/Randomness.html">9</a></td>
+<td>Picks one (by default) or some number 'n' of items from an array at random. Default is with replacement. For sampling without replacement, use argument <code>replace=False.</code></td>
+</tr>
+<tr>
+<td><code>np.count_nonzero(array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/09/Randomness.html">9</a></td>
+<td>Returns the number of non-zero (or <code>True</code>) elements in an array.</td>
+</tr>
+<tr>
+<td><code>np.append(array, item)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/09/2/Iteration.html">9.2</a></td>
+<td>Returns a copy of the input array with <code>item</code> (must be the same type as the other entries in the array) appended to the end.</td>
+</tr>
+<tr>
+<td><code>percentile(percentile, array)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/13/1/Percentiles.html">13.1</a></td>
+<td>Returns the corresponding percentile of an array.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<h3><code>Table.where</code> Predicates</h3>
+<p>Any of these predicates can be negated by adding <code>not_</code> in front of them, e.g. <code>are.not_equal_to(Z)</code> or <code>are.not_containing(S)</code>.</p>
+<table>
+<thead>
+<tr>
+<th>Predicate</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>are.equal_to(Z)</code></td>
+<td>Equal to <code>Z</code></td>
+</tr>
+<tr>
+<td><code>are.above(x)</code></td>
+<td>Greater than <code>x</code></td>
+</tr>
+<tr>
+<td><code>are.above_or_equal_to(x)</code></td>
+<td>Greater than or equal to <code>x</code></td>
+</tr>
+<tr>
+<td><code>are.below(x)</code></td>
+<td>Less than <code>x</code></td>
+</tr>
+<tr>
+<td><code>are.below_or_equal_to(x)</code></td>
+<td>Less than or equal to <code>x</code></td>
+</tr>
+<tr>
+<td><code>are.between(x,y)</code></td>
+<td>Greater than or equal to <code>x</code> and less than <code>y</code></td>
+</tr>
+<tr>
+<td><code>are.between_or_equal_to(x,y)</code></td>
+<td>Greater than or equal to <code>x</code>, and less than or equal to <code>y</code></td>
+</tr>
+<tr>
+<td><code>are.contained_in(A)</code></td>
+<td>Is a substring of <code>A</code> (if <code>A</code> is a string) or an element of <code>A</code> (if <code>A</code> is a list/array)</td>
+</tr>
+<tr>
+<td><code>are.containing(S)</code></td>
+<td>Contains the string <code>S</code></td>
+</tr>
+<tr>
+<td><code>are.strictly_between(x,y)</code></td>
+<td>Greater than <code>x</code> and less than <code>y</code></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<h3>Miscellaneous Functions</h3>
+<p>These are functions in the <code>datascience</code> library that are used in the course that don't fall into any of the categories above.</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th align="center">Chapter</th>
+<th>Description</th>
+<th>Input</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_proportions(sample_size, model_proportions)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/11/1/Assessing_Models.html">11.1</a></td>
+<td><code>Sample_size</code> should be an integer, <code>model_proportions</code> an array of probabilities that sum up to 1. The function samples <code>sample_size</code> objects from the distribution specified by <code>model_proportions</code>. It returns an array with the same size as <code>model_proportions</code>. Each item in the array corresponds to the proportion of times it was sampled out of  the <code>sample_size</code> times.</td>
+<td>1. <strong>int</strong>: sample size<br>2. <strong>array</strong>: an array of proportions that should sum to 1</td>
+<td><strong>array</strong>: each item corresponds to the proportion of times that corresponding item was sampled from <strong>model_proportions</strong> in <strong>sample_size</strong> draws, should sum to 1</td>
+</tr>
+<tr>
+<td><code>minimize(function)</code></td>
+<td align="center"><a href="https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression">15.4</a></td>
+<td>Returns an array of values such that if each value in the array was passed into <code>function</code> as arguments, it would minimize the output value of <code>function</code>.</td>
+<td><strong>function</strong>: name of a function that will be minimized.</td>
+<td><strong>array</strong>: An array in which each element corresponds to an argument that minimizes the output of the function. Values in the array are listed based on the order they are passed into the function; the first element in the array is also going to be the first value passed into the function.</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+  <footer id="contentinfo" class="body">
+  </footer><!-- /#contentinfo -->
+
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- Latest compiled and minified Bootstrap JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+html {
+  font-weight: 300;
+}
+
+body {
+  padding-top: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+a.anchor-link {
+  display: none;
+}
+
+/* Announcement Pager */
+
+.announcement-btn-older:hover, .announcement-btn-newer:hover {
+  cursor: pointer;
+}
+.announcement {
+  display: none;
+}
+.announcement .pager {
+  text-align: left;
+}
+
+/* Calendar */
+
+.calendar table, .calendar th, .calendar tr, .calendar td {
+  border: 1px solid black;
+}
+
+.calendar th, .calendar tr, .calendar td {
+  padding: 12px;
+}
+
+.calendar td.header {
+  font-weight: 500;
+}
+
+.calendar tr.monday {
+  background-color: #e6e8f2;
+}
+
+.calendar tr.wednesday {
+  background-color: #ffffff;
+}
+
+
+/* Staff */
+
+.staff th, .staff tr, .staff td {
+  padding: 30px 40px 40px 0;
+}
+
+.staff td {
+  vertical-align: top;
+  text-align: center;
+}
+
+.staff tr{
+  border:0;
+  border-top: 1px solid #eeeeee;
+}
+
+.biohover {
+  color:#377bb5;
+  text-decoration: underline
+}
+
+.staff .name .biohover .bio {
+  visibility: hidden;
+  width: 200px;
+  background-color: #e7e7e7;
+  color: #000;
+  text-align: left;
+  border-radius: 5px;
+  padding: 5px 5px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+
+.staff .name .biohover:hover .bio {
+  visibility: visible;
+}
+
+.staff .name .biohover:active .bio {
+  visibility: visible;
+}
