@@ -90,7 +90,7 @@ class Announce:
     def data8(self):
         display(Markdown("The Data 8 Reference might be helpful to look over for examples and usage: [Data 8 Reference](http://data8.org/sp22/python-reference.html)"))
     def furtherTips(self):
-        display(Markdown("If you are having more trouble please feel free to consult a staff member at [Office Hours](https://oh.data8.org)\
+        display(Markdown("If you are having more trouble please feel free to consult a staff member\
                         \n or see the error message below "))
     def print(self, i):
         display(Markdown)

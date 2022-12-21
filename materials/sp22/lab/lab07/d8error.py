@@ -4,12 +4,12 @@ import os.path
 import csv
 import ipywidgets as widgets
 import datetime
-import traceback
+
 class Announce:
     """error index, serves as an id on the csv file"""
     eindex = 0
 
-    def __init__(self, etype, value, tb, tb_offset=None):
+    def __init__(self, etype, value):
         self.eindex = Announce.eindex
         Announce.eindex += 1
         self.etype = etype
@@ -17,8 +17,6 @@ class Announce:
         self.feedbackRating = 0
         self.feedbackMSG = ""
         self.errorname = str(etype().__class__.__name__)
-        self.tb = tb
-        self.tb_offset = tb_offset
         with open("errorConfig.json", "r") as f:
             diction = json.load(f)
         exceptionClass = diction.get(self.errorname)
@@ -34,43 +32,30 @@ class Announce:
                     prewrittenMessge = True
             self.print = prewrittenMessge
 
-        # this generates a semi-readable summary of the traceback, which includes some information about the python code that caused the error
-        summary = traceback.format_exc().splitlines()
-        
-        # iterate through traceback object to extract linenumber and bytecode of the first two frames
-        curr_tb = tb.tb_next # skip the first frame which is the jupyter notebook frame
-
-        # get code from jupyter notebook
-        codeToLinenos = []
-        while curr_tb and len(codeToLinenos) < 2:
-            code = self.parseTraceback(curr_tb)
-            codeToLinenos.append((code, curr_tb.tb_lineno))
-            curr_tb = curr_tb.tb_next
-
-
-        mode = 'w' if not os.path.isfile("errorLog.csv") else 'a'
-        if os.path.isfile("errorLog.csv") and Announce.eindex == 1:
-            with open("errorLog.csv", 'r') as f:
-                for row in csv.reader(f):
-                    self.eindex = int(row[0])
-                self.eindex += 1
-                Announce.eindex = self.eindex + 1
-        
-        with open('errorLog.csv', mode, newline='') as f:
-            fieldnames = ['index', 'errorType', 'errorMSG', 'feedbackRating', 'feedbackMSG', 'time', 'codeToLinenos', 'traceSummary']
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+        def writeRow(file):
+            """saves errors to errorLog.csv"""
+            fieldnames = ['index', 'errorType', 'errorMSG', 'feedbackRating', 'feedbackMSG', "Time"]
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
             writer.writerow({"index": self.eindex,
                             "errorType": self.errorname,
                             "errorMSG": str(self.value),
                             "feedbackRating": self.feedbackRating,
                             "feedbackMSG": self.feedbackMSG,
-                            "time": str(datetime.datetime.now()),
-                            "codeToLinenos": codeToLinenos, 
-                            "traceSummary":summary})
-    
-    def parseTraceback(self, tb):
-        return traceback.extract_tb(tb)[0].line
+                            "Time": str(datetime.datetime.now())})
 
+        if not os.path.isfile("errorLog.csv"):
+            with open('errorLog.csv', 'w', newline='') as f:
+                writeRow(f)
+        else:
+            if Announce.eindex == 1:
+                with open("errorLog.csv", 'r') as f:
+                    for row in csv.reader(f):
+                        self.eindex = int(row[0])
+                    self.eindex += 1
+                    Announce.eindex = self.eindex + 1
+            with open('errorLog.csv', 'a', newline='') as f:
+                writeRow(f)
+    
     def tips(self):
         etype = self.etype
         value = self.value
@@ -79,18 +64,18 @@ class Announce:
         exceptionClass = diction.get(self.errorname)
         if exceptionClass is not None:
             self.default()
-            
             for i in exceptionClass:
                 key, items = list(i.items())[0]
                 if (key in str(value)):
                     c=1
                     for j in items.get("helptext"):
+
                         display(Markdown(str(c)+". "+j))
                         c += 1
     def data8(self):
-        display(Markdown("The Data 8 Reference might be helpful to look over for examples and usage: [Data 8 Reference](http://data8.org/fa21/python-reference.html)"))
+        display(Markdown("The Data 8 Reference might be helpful to look over for examples and usage: [Data 8 Reference](http://data8.org/sp22/python-reference.html)"))
     def furtherTips(self):
-        display(Markdown("If you are having more trouble please feel free to consult a staff member at [Office Hours](https://oh.data8.org)\
+        display(Markdown("If you are having more trouble please feel free to consult a staff member \
                         \n or see the error message below "))
     def print(self, i):
         display(Markdown)
@@ -161,7 +146,7 @@ class Announce:
 
 def test_exception(self, etype, value, tb, tb_offset=None):
     try:
-        announce = Announce(etype, value, tb, tb_offset)
+        announce = Announce(etype, value)
         if announce.print:
             announce.title()
             announce.tips()
