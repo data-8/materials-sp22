@@ -31,7 +31,13 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"ms-python.python",
-				"ms-python.vscode-pylance"
+				"ms-python.vscode-pylance",
+				"ms-toolsai.jupyter",
+				"ms-toolsai.jupyter-keymap",
+				"ms-toolsai.jupyter-renderers",
+				"vscode-icons-team.vscode-icons",
+				"wayou.vscode-todo-highlight",
+				"timonwong.shellcheck"
 			]
 		}
 	}
