@@ -10,6 +10,6 @@ matplotlib
 ipywidgets>=7.0.0 
 bqplot 
 nbinteract==0.0.12 
-otter-grader==3.3.0
+otter-grader==4.3.2
 okpy  
 plotly
