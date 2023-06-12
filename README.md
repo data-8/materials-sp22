@@ -22,7 +22,10 @@ This allows you to collaborate with a partner on same set of code.
 2) Follow the on-screen pop-up dialog instructions
 3) Send the invitation to your partner
 
-**Saving Work in CodeSpace**
+**CodeSpace**
+
+_Saving Work_
+
 When you save your work(Ctrl-S or File --> Save), you are saving your changes to the Virtual Machine running VSCode in CodeSpace. This does **not** mean you are changes are saved to the repository.
 
 In order to permanently save your work, you need to:
@@ -32,3 +35,11 @@ In order to permanently save your work, you need to:
 3) In the message box, give a descriptive(and short) sentence explaining the changes.
 4) Click "Commit"
 5) After a few seconds, the button will say "Sync Changes". Click it again to save the changes to your repository.
+
+_CodeSpace Retention_
+
+By default a codespace is deleted after 30 days of inactivity. You can set this value much
+lower:
+1) Go to our user Settings
+2) Click Codespaces
+3) Scroll down page to find "Default Retention Period"
