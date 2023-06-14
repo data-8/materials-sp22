@@ -178,7 +178,7 @@ def display_combinations(category_counts, individuals_name="people"):
 
 
 def test():
-  cancer = Table().with_columns(["cancer status", ["cancer", "no cancer"], "positive", [90, 198], "negative", [10, 9702]]) #SOLUTION
+  cancer = Table().with_columns(["cancer status", ["cancer", "no cancer"], "positive", [90, 198], "negative", [10, 9702]])
   grouped = pivot_table_to_groups(cancer, "test status")
   display_combinations(grouped)
 
