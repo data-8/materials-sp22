@@ -13,6 +13,14 @@ The contents of this repository are licensed for reuse under [Creative Commons A
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/data-8/materials-sp22/main)
 
 ## VS Code/CodeSpace Usage
+
+**Launching**
+
+1) From the Github repository home page click the Green button labelled, "Code".
+2) Click the plus("+") on the right of the drop-down panel. 
+3) A Code Space will launch and load all the materials for you to use.
+![CodeSpace](./assets/codespace.png)
+
 **Kernel:**
 You will need to select a Python kernel when you run a cell in a notebook for the first time. The default is `Python 3.10.11`. Select this option.
 
@@ -22,9 +30,7 @@ This allows you to collaborate with a partner on same set of code.
 2) Follow the on-screen pop-up dialog instructions
 3) Send the invitation to your partner
 
-**CodeSpace**
-
-_Saving Work_
+**Saving Work**
 
 When you save your work(Ctrl-S or File --> Save), you are saving your changes to the Virtual Machine running VSCode in CodeSpace. This does **not** mean you are changes are saved to the repository.
 
@@ -36,7 +42,7 @@ In order to permanently save your work, you need to:
 4) Click "Commit"
 5) After a few seconds, the button will say "Sync Changes". Click it again to save the changes to your repository.
 
-_CodeSpace Retention_
+**CodeSpace Retention**
 
 By default a codespace is deleted after 30 days of inactivity. You can set this value much
 lower:
