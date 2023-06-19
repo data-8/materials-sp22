@@ -21,7 +21,7 @@ The contents of this repository are licensed for reuse under [Creative Commons A
 ![CodeSpace](./assets/codespace.png)
 
 **Kernel:**
-You will need to select a Python kernel when you run a cell in a notebook for the first time. The default is `Python 3.10.11`. Select this option.
+You will need to select a Python kernel when you run a cell in a notebook for the first time. The default is `Python 3.10.XX`. There may be other Python versions available to select. They all should work.
 
 **Live Share**
 This allows you to collaborate with a partner on same set of code. 
