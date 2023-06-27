@@ -1,0 +1,25 @@
+{
+    "name": "Data 8: project2",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "customizations": {
+        "codespaces": {
+            "openFiles": []
+        },
+        "vscode": {
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python"
+            },
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "MS-vsliveshare.vsliveshare"
+            ]
+        }
+    },
+    "updateContentCommand": "python3 -m pip install -r .devcontainer/requirements.txt",
+    "postAttachCommand": "code /workspaces/materials-sp22/project/project2/project2.ipynb",
+    "build": {
+        "dockerfile": "../dockerfile",
+        "context": "../.."
+    }
+}
