@@ -1,0 +1,25 @@
+{
+    "name": "Data 8: lab07",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "customizations": {
+        "codespaces": {
+            "openFiles": []
+        },
+        "vscode": {
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python"
+            },
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "MS-vsliveshare.vsliveshare"
+            ]
+        }
+    },
+    "updateContentCommand": "python3 -m pip install -r .devcontainer/requirements.txt",
+    "postAttachCommand": "code /workspaces/materials-sp22/lab/lab07/lab07.ipynb",
+    "build": {
+        "dockerfile": "../dockerfile",
+        "context": "../.."
+    }
+}
