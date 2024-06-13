@@ -1,0 +1,1782 @@
+name,material,city,height,completed
+One World Trade Center,mixed/composite,New York City,541.29998779297,2014
+Willis Tower,steel,Chicago,442.14001464844,1974
+432 Park Avenue,concrete,New York City,425.5,2015
+Trump International Hotel & Tower,concrete,Chicago,423.2200012207,2009
+Empire State Building,steel,New York City,381.0,1931
+Bank of America Tower,mixed/composite,New York City,365.79998779297006,2009
+Stratosphere Tower,concrete,Las Vegas,350.2200012207,1996
+Aon Center,steel,Chicago,346.26000976562005,1973
+John Hancock Center,steel,Chicago,343.69000244141,1969
+Chrysler Building,steel,New York City,318.89999389648,1930
+New York Times Tower,steel,New York City,318.76998901367,2007
+Bank of America Plaza,mixed/composite,Atlanta,311.79998779297,1992
+U.S. Bank Tower,steel,Los Angeles,310.29000854492,1990
+The Franklin - North Tower,mixed/composite,Chicago,306.94000244141,1989
+One57,mixed/composite,New York City,306.07000732422,2014
+JPMorgan Chase Tower,mixed/composite,Houston,305.41000366211,1982
+Two Prudential Plaza,concrete,Chicago,303.2799987793,1990
+Wells Fargo Plaza,steel,Houston,302.36999511719,1983
+4 World Trade Center,mixed/composite,New York City,297.73001098633,2014
+Comcast Center,mixed/composite,Philadelphia,296.73001098633,2008
+311 South Wacker Drive,concrete,Chicago,292.92001342773,1990
+70 Pine,steel,New York City,290.17001342773,1932
+Key Tower,mixed/composite,Cleveland,288.64999389648,1991
+One Liberty Place,steel,Philadelphia,288.04000854492,1987
+Columbia Center,mixed/composite,Seattle,284.38000488281,1984
+The Trump Building,steel,New York City,282.54998779297,1930
+Bank of America Plaza,mixed/composite,Dallas,280.7200012207,1985
+Citigroup Center,steel,New York City,278.89999389648,1977
+Williams Tower,steel,Houston,274.63000488281,1982
+Renaissance Tower,steel,Dallas,270.05999755859,1986
+Bank of America Corporate Center,concrete,Charlotte,265.48001098633,1992
+Eight Spruce Street,concrete,New York City,265.17999267578,2011
+900 North Michigan Avenue,mixed/composite,Chicago,265.0,1989
+SunTrust Plaza,concrete,Atlanta,264.25,1992
+Trump World Tower,concrete,New York City,262.44000244141,2001
+Water Tower Place,concrete,Chicago,261.88000488281,1976
+Aqua,concrete,Chicago,261.75,2009
+Aon Center,steel,Los Angeles,261.51998901367,1974
+Transamerica Pyramid,mixed/composite,San Francisco,260.0,1972
+Comcast Building,steel,New York City,259.07998657227,1933
+Chase Tower,steel,Chicago,259.07998657227,1969
+Two Liberty Place,steel,Philadelphia,258.4700012207,1990
+Park Tower,concrete,Chicago,257.35000610352,2000
+U.S. Steel Tower,steel,Pittsburgh,256.33999633789,1970
+One Atlantic Center,mixed/composite,Atlanta,249.94000244141003,1987
+The Legacy at Millennium Park,concrete,Chicago,249.33000183105,2010
+CitySpire,concrete,New York City,248.11000061035,1987
+28 Liberty,steel,New York City,247.80999755858997,1961
+4 Times Square,steel,New York City,246.53999328613,1999
+MetLife Building,steel,New York City,246.2799987793,1963
+Bloomberg Tower,mixed/composite,New York City,245.61999511718997,2004
+Mellon Bank Center,mixed/composite,Philadelphia,241.41000366211003,1990
+Woolworth Building,steel,New York City,241.39999389648,1913
+IDS Tower,mixed/composite,Minneapolis,241.38000488281003,1973
+200 Clarendon,steel,Boston,240.78999328613,1976
+Four Seasons Hotel & Tower,concrete,Miami,240.41000366211003,2003
+Comerica Bank Tower,mixed/composite,Dallas,239.88000488281003,1987
+Duke Energy Center,mixed/composite,Charlotte,239.69999694823997,2010
+300 North LaSalle,mixed/composite,Chicago,239.11999511718997,2009
+30 Hudson Street,steel,Jersey City,238.05000305176003,2004
+Bank of America Center,steel,Houston,237.75,1983
+555 California Street,steel,San Francisco,237.44000244141003,1969
+1 Worldwide Plaza,steel,New York City,237.13999938965,1989
+Capella Tower,mixed/composite,Minneapolis,236.5299987793,1992
+Wells Fargo Center,mixed/composite,Minneapolis,236.32000732422,1988
+1201 Third Avenue Tower,steel,Seattle,235.30999755858997,1988
+191 Peachtree Tower,mixed/composite,Atlanta,234.69999694823997,1992
+Three First National Plaza,mixed/composite,Chicago,233.64999389648,1981
+Southeast Financial Center,mixed/composite,Miami,232.80000305176003,1983
+Heritage Plaza,steel,Houston,232.25999450683997,1987
+Carnegie Hall Tower,concrete,New York City,230.74000549316003,1991
+Chicago Title & Trust Center,mixed/composite,Chicago,230.47999572753997,1992
+Enterprise Plaza,mixed/composite,Houston,230.39999389648,1980
+383 Madison Avenue,steel,New York City,230.25,2001
+Courtyard & Residence Inn Manhattan/Central Park,concrete,New York City,229.61999511718997,2013
+AXA Center,steel,New York City,229.21000671387,1985
+One Penn Plaza,steel,New York City,228.60000610352,1972
+1251 Avenue of the Americas,steel,New York City,228.60000610352,1972
+Prudential Tower,steel,Boston,228.60000610352,1964
+Two California Plaza,steel,Los Angeles,228.60000610352,1992
+Time Warner Center North Tower,mixed/composite,New York City,228.32000732422,2004
+Time Warner Center South Tower,mixed/composite,New York City,228.32000732422,2004
+Gas Company Tower,steel,Los Angeles,228.30000305176003,1991
+Goldman Sachs Headquarters,steel,New York City,228.30000305176003,2010
+60 Wall Street,steel,New York City,227.08000183105,1989
+One Astor Plaza,mixed/composite,New York City,227.08000183105,1972
+Blue Cross-Blue Shield Tower,mixed/composite,Chicago,226.7200012207,2010
+7 World Trade Center,mixed/composite,New York City,226.5,2006
+One Liberty Plaza,steel,New York City,226.4700012207,1972
+Twenty Exchange,steel,New York City,225.86000061035,1931
+Centerpoint Energy Plaza,steel,Houston,225.86000061035,1996
+Two Union Square,mixed/composite,Seattle,225.55999755858997,1989
+Three Logan,steel,Philadelphia,225.25,1991
+Three World Financial Center,steel,New York City,225.19999694823997,1986
+Bank of America Plaza,steel,Los Angeles,224.0299987793,1975
+1600 Smith Street,steel,Houston,223.11999511718997,1984
+Olympia Centre,concrete,Chicago,222.89999389648,1986
+Detroit Marriott at the Renaissance Center,concrete,Detroit,221.49000549316003,1977
+One Museum Park,concrete,Chicago,221.33999633788997,2009
+Times Square Tower,steel,New York City,221.28999328613,2004
+One Mellon Center,steel,Pittsburgh,221.0,1983
+777 Tower,steel,Los Angeles,221.0,1991
+Fulbright Tower,mixed/composite,Houston,221.0,1982
+Westin Peachtree Plaza,concrete,Atlanta,220.36999511718997,1976
+Wells Fargo Tower,steel,Los Angeles,220.36999511718997,1983
+Seattle Municipal Tower,steel,Seattle,220.07000732422,1990
+Fountain Place,steel,Dallas,219.46000671387,1986
+Figueroa at Wilshire,steel,Los Angeles,218.53999328613,1989
+Metropolitan Tower,concrete,New York City,218.24000549316003,1985
+Republic Plaza,steel,Denver,217.63000488281003,1984
+One Shell Plaza,concrete,Houston,217.63000488281003,1970
+1801 California Plaza,steel,Denver,216.11000061035,1982
+Terminal Tower,steel,Cleveland,215.80000305176003,1928
+JPMorgan Chase Tower,steel,New York City,215.5,1960
+General Motors Building,steel,New York City,214.88999938965,1968
+Chase Tower,steel,Indianapolis,213.66999816895,1990
+Metropolitan Life Tower,steel,New York City,213.36000061035,1909
+City National Tower,steel,Los Angeles,213.05999755858997,1971
+Paul Hastings Tower,steel,Los Angeles,213.05999755858997,1971
+Wells Fargo Center,mixed/composite,Denver,212.75,1983
+500 Fifth Avenue,steel,New York City,212.44999694823997,1931
+AMA Plaza,mixed/composite,Chicago,211.83999633788997,1972
+345 California Center,steel,San Francisco,211.83999633788997,1986
+Americas Tower,steel,New York City,210.91999816895,1992
+1400 Smith Street,steel,Houston,210.52000427246003,1983
+Solow Building,steel,New York City,210.0,1974
+HSBC Bank Building,steel,New York City,209.71000671387,1967
+55 Water Street,steel,New York City,209.39999389648,1972
+277 Park Avenue,steel,New York City,209.39999389648,1963
+Waldorf Astoria Chicago,concrete,Chicago,209.0,2009
+Three Allen Center,steel,Houston,208.78999328613,1980
+Random House Tower,steel,New York City,208.49000549316003,2003
+The Austonian,concrete,Austin,208.14999389648,2010
+Four Seasons Hotel,concrete,New York City,207.88000488281003,1993
+111 South Wacker,mixed/composite,Chicago,207.63999938965,2005
+181 West Madison,mixed/composite,Chicago,207.27000427246003,1990
+Hyatt Center,mixed/composite,Chicago,207.10000610352,2005
+Marquis,concrete,Miami,207.0,2009
+LyondellBassell Tower,mixed/composite,Houston,206.80000305176003,1978
+AT&T Building,concrete,Atlanta,206.35000610352,1980
+Sky,concrete,New York City,206.0,2015
+McGraw-Hill Building,steel,New York City,205.44000244141003,1972
+One Magnificent Mile,concrete,Chicago,205.13000488281003,1983
+One Grand Central Place,steel,New York City,205.13000488281003,1930
+Citigroup Building,steel,New York City,205.13000488281003,1990
+Barclay Tower,concrete,New York City,205.05999755858997,2007
+340 on the Park,concrete,Chicago,204.89999389648,2007
+Paramount Plaza,steel,New York City,204.2200012207,1970
+United Building,mixed/composite,Chicago,203.61000061035,1992
+33 South 6th Street,concrete,Minneapolis,203.58000183105,1983
+Ritz-Carlton/Marriott Marquis Los Angeles,steel,Los Angeles,203.2799987793,2010
+Sovereign,concrete,Atlanta,202.69000244141003,2008
+Great American Tower at Queen City Square,mixed/composite,Cincinnati,202.69000244141003,2011
+Trump Tower,concrete,New York City,202.38999938965,1982
+Hearst Tower,mixed/composite,Charlotte,200.80999755858997,2002
+200 Public Square,steel,Cleveland,200.55999755858997,1985
+1180 Peachtree,concrete,Atlanta,200.16000366211003,2006
+Wells Fargo Tower,mixed/composite,Miami,199.5,2010
+One Wall Street,steel,New York City,199.33999633788997,1932
+Silver Towers East,concrete,New York City,199.16999816895,2009
+Silver Towers West,concrete,New York City,199.16999816895,2009
+599 Lexington Avenue,steel,New York City,199.03999328613,1986
+UBS Tower,mixed/composite,Chicago,198.58000183105,2001
+712 5th Avenue,steel,New York City,198.11999511718997,1990
+900 Biscayne Bay,concrete,Miami,198.0,2008
+Chanin Building,steel,New York City,197.80000305176003,1929
+245 Park Avenue,steel,New York City,197.50999450683997,1967
+Richard J. Daley Center,steel,Chicago,197.50999450683997,1965
+550 Madison Avenue,steel,New York City,197.32000732422,1983
+55 East Erie,concrete,Chicago,197.14999389648,2004
+Millennium Tower,concrete,San Francisco,196.60000610352,2009
+Two World Financial Center,steel,New York City,196.60000610352,1986
+Lake Point Tower,concrete,Chicago,196.44999694823997,1968
+1095 Avenue of the Americas,steel,New York City,196.44000244141003,2007
+River East Center,concrete,Chicago,196.28999328613,2001
+570 Lexington Avenue,steel,New York City,196.0,1931
+Mansions at Acqualina,concrete,Sunny Isles Beach,196.0,2015
+The Palazzo,mixed/composite,Las Vegas,195.67999267578,2007
+Grand Plaza Apartments,concrete,Chicago,195.38000488281003,2003
+1 New York Plaza,steel,New York City,195.07000732422,1969
+Four Seasons Hotel & Private Residences,concrete,Denver,194.75,2010
+155 North Wacker,mixed/composite,Chicago,194.57000732422,2009
+1 MiMA Tower,concrete,New York City,194.55000305176003,2011
+Leo Burnett Building,mixed/composite,Chicago,193.55000305176003,1989
+One PPG Place,steel,Pittsburgh,193.55000305176003,1984
+345 Park Avenue,steel,New York City,193.25,1969
+BG Group Place,concrete,Houston,192.74000549316003,2011
+Mercantile Building,steel,New York City,192.60000610352,1929
+Langham Place,concrete,New York City,192.58000183105,2010
+The Heritage at Millennium Park,concrete,Chicago,192.38000488281003,2005
+Encore,concrete,Las Vegas,192.33000183105,2008
+Mint at Riverfront,concrete,Miami,192.2799987793,2009
+W New York Downtown Hotel & Residences,concrete,New York City,192.11000061035,2010
+Grace Plaza,steel,New York City,192.0299987793,1972
+Safeco Plaza,steel,Seattle,192.0299987793,1969
+Home Insurance Plaza,steel,New York City,192.0299987793,1966
+Infinity at Brickell,concrete,Miami,192.0,2008
+101 Park Avenue,concrete,New York City,191.7200012207,1982
+Elm Place,steel,Dallas,191.41999816895,1965
+888 7th Avenue,steel,New York City,191.41999816895,1971
+1345 Avenue of the Americas,steel,New York City,190.5,1969
+Citigroup Center,steel,Los Angeles,190.5,1979
+Miami Tower,concrete,Miami,190.5,1987
+Waldorf Astoria New York,steel,New York City,190.5,1931
+353 North Clark,mixed/composite,Chicago,189.99000549316003,2009
+Trump Palace,concrete,New York City,189.88999938965,1991
+One Kansas City Place,concrete,Kansas City,189.88999938965,1988
+Trump International Hotel & Tower 1,concrete,Las Vegas,189.58999633788997,2008
+One Madison Park,concrete,New York City,189.2799987793,2010
+Olympic Tower,mixed/composite,New York City,189.0,1976
+611 Place,steel,Los Angeles,189.0,1967
+425 5th Avenue,concrete,New York City,188.33999633788997,2003
+New York Life Building,steel,New York City,187.5,1928
+Marina Blue,concrete,Miami,187.44999694823997,2007
+The Epic,concrete,New York City,187.41000366211003,2007
+Tower 49&reg;,mixed/composite,New York City,187.39999389648,1985
+Eventi,concrete,New York City,187.14999389648,2010
+Wynn Las Vegas,concrete,Las Vegas,187.14999389648,2005
+OneEleven,concrete,Chicago,186.77000427246003,2014
+Plaza on Brickell Tower I,concrete,Miami,185.92999267578,2007
+Millennium Centre,concrete,Chicago,185.91000366211003,2003
+Credit Lyonnais Building,steel,New York City,185.63000488281003,1964
+Chicago Place,concrete,Chicago,185.32000732422,1991
+City Centre,steel,Seattle,184.82000732422,1989
+KPMG Tower,steel,Los Angeles,184.80000305176003,1984
+ExxonMobil Building,steel,Houston,184.71000671387,1963
+Baccarat Hotel & Residences,concrete,New York City,184.50999450683997,2015
+One Rincon Hill South Tower,concrete,San Francisco,184.41000366211003,2008
+Chicago Board of Trade,steel,Chicago,184.41000366211003,1930
+Space Needle,steel,Seattle,184.41000366211003,1962
+The Orion,concrete,New York City,184.10000610352,2006
+George Washington Bridge,steel,New York City,184.0,1931
+Cosmopolitan Casino Spa Tower,mixed/composite,Las Vegas,183.94999694823997,2010
+Cosmopolitan Casino Beach Club Tower,mixed/composite,Las Vegas,183.94999694823997,2010
+590 Madison Avenue,steel,New York City,183.80000305176003,1983
+Gables Republic Tower,steel,Dallas,183.5,1954
+250 West 55th Street,steel,New York City,183.42999267578,2013
+Epic Residences & Hotel,concrete,Miami,183.19999694823997,2009
+CNA Plaza,steel,Chicago,183.19000244141003,1972
+U.S. Bank Center,steel,Milwaukee,183.19000244141003,1973
+BNY Mellon Center at One Boston Place,steel,Boston,183.19000244141003,1970
+One Prudential Plaza,steel,Chicago,183.19000244141003,1955
+Eleven Times Square,mixed/composite,New York City,183.10000610352,2011
+101 California Street,steel,San Francisco,183.0,1982
+50 Fremont Center,steel,San Francisco,183.0,1985
+1166 Avenue of the Americas,steel,New York City,182.91000366211003,1974
+Aria Resort & Casino,concrete,Las Vegas,182.88000488281003,2009
+One International Place,steel,Boston,182.88000488281003,1987
+1500 Louisiana Street,steel,Houston,182.88000488281003,2002
+Heller International Tower,concrete,Chicago,182.86000061035,1992
+Madison Plaza,steel,Chicago,182.46000671387,1982
+Republic Center Tower II,steel,Dallas,182.27000427246003,1964
+Hawthorn Park,concrete,New York City,182.25,2014
+Russell Investments Center,steel,Seattle,182.17999267578,2006
+Planet Hollywood Towers,concrete,Las Vegas,182.0,2009
+Hearst Tower,steel,New York City,181.9700012207,2006
+Avalon Willoughby West,concrete,New York City,181.66000366211003,2015
+The Grant,concrete,Chicago,181.30000305176003,2010
+One Metropolitan Square,mixed/composite,St. Louis,180.75,1988
+Celanese Building,steel,New York City,180.44000244141003,1973
+1000 Lake Shore Plaza,concrete,Chicago,179.83000183105,1964
+388 Bridge Street,concrete,New York City,179.83000183105,2014
+One Financial Center,steel,Boston,179.83000183105,1984
+Thurgood Marshall U.S. Court House,steel,New York City,179.83000183105,1936
+The Clare at Water Tower,concrete,Chicago,179.47999572753997,2009
+Sky House,concrete,New York City,179.33000183105,2008
+The Millenium Hilton,concrete,New York City,179.22999572753997,1992
+One Wells Fargo Center,steel,Charlotte,179.22999572753997,1988
+Time-Life Building,steel,New York City,178.91999816895,1959
+Jacob K. Javits Federal Building,steel,New York City,178.91999816895,1967
+Icon Brickell North Tower,concrete,Miami,178.61999511718997,2008
+Icon Brickell South Tower,concrete,Miami,178.61999511718997,2008
+Ten Museum Park,concrete,Miami,178.30999755858997,2007
+W Times Square,concrete,New York City,177.85000610352,2002
+Mid Continental Plaza,concrete,Chicago,177.61999511718997,2013
+Trump International Hotel & Tower,steel,New York City,177.61999511718997,1970
+Gulf Tower,steel,Pittsburgh,177.39999389648,1932
+Crain Communications Building,concrete,Chicago,177.39999389648,1983
+Campbell Mithun Tower,mixed/composite,Minneapolis,177.24000549316003,1985
+360 Condominiums,concrete,Austin,177.10000610352,2008
+North Pier Apartments,concrete,Chicago,177.08999633788997,1990
+Citadel Center,steel,Chicago,176.83999633788997,2003
+Stevens Tower,steel,New York City,176.78999328613,1971
+The Mansion on Peachtree,concrete,Atlanta,176.78999328613,2008
+One AT&T Plaza,steel,Dallas,176.78999328613,1984
+Municipal Building,steel,New York City,176.78999328613,1914
+Ross Tower,concrete,Dallas,176.47999572753997,1984
+Two Houston Center,steel,Houston,176.47999572753997,1974
+One California Plaza,steel,Los Angeles,176.17999267578,1985
+The Atlantic,concrete,Atlanta,175.86999511718997,2009
+520 Madison Avenue,mixed/composite,New York City,175.86999511718997,1982
+One World Financial Center,steel,New York City,175.86999511718997,1985
+Merchandise Mart,steel,New York City,175.57000732422,1973
+The Vue,concrete,Charlotte,175.5,2010
+5 Times Square,steel,New York City,175.25999450683997,2002
+300 Madison Avenue,steel,New York City,175.25999450683997,2003
+Lehman Building,steel,New York City,175.25999450683997,2001
+Jade on the Beach,concrete,Sunny Isles Beach,175.0,2008
+Carew Tower,steel,Cincinnati,175.0,1931
+New York Marriott Marquis Hotel,steel,New York City,174.96000671387,1985
+Wells Fargo Center,steel,Seattle,174.96000671387,1983
+299 Park Avenue,steel,New York City,174.96000671387,1967
+The Fordham,concrete,Chicago,174.80999755858997,2003
+190 South LaSalle,steel,Chicago,174.64999389648,1987
+Chevron Tower,steel,San Francisco,174.64999389648,1975
+Socony Mobil Building,steel,New York City,174.35000610352,1956
+1290 Avenue of the Americas,steel,New York City,174.03999328613,1963
+One South Dearborn,mixed/composite,Chicago,173.94000244141003,2005
+Onterie Center,concrete,Chicago,173.74000549316003,1986
+780 3rd Avenue,concrete,New York City,173.74000549316003,1983
+Four Embarcadero Center,steel,San Francisco,173.74000549316003,1984
+600 3rd Avenue,steel,New York City,173.74000549316003,1971
+One Embarcadero Center,steel,San Francisco,173.42999267578,1970
+Penobscot Building,steel,Detroit,173.25999450683997,1928
+450 Lexington Avenue,steel,New York City,173.13000488281003,1991
+Chicago Temple Building,steel,Chicago,173.13000488281003,1924
+Paramount Tower,concrete,New York City,172.82000732422,1998
+44 Montgomery,steel,San Francisco,172.25,1967
+Palmolive Building,steel,Chicago,172.21000671387,1929
+230 Park Avenue,steel,New York City,172.21000671387,1928
+Spear Tower,steel,San Francisco,172.0,1976
+111 Huntington Avenue,steel,Boston,172.0,2002
+The Tower at PNC Plaza,mixed/composite,Pittsburgh,172.0,2015
+Marina City I,concrete,Chicago,171.39999389648,1964
+Marina City II,concrete,Chicago,171.39999389648,1964
+Kluczynski Federal Building,steel,Chicago,171.30000305176,1974
+30 Broad Street,steel,New York City,171.0,1932
+US Bank Plaza I,concrete,Minneapolis,171.0,1981
+Huron Plaza,concrete,Chicago,170.69000244141,1983
+Nelson Tower,steel,New York City,170.69000244141,1931
+Hotel Sherry-Netherland,steel,New York City,170.69000244141,1927
+Boeing International Headquarters,steel,Chicago,170.69000244141,1990
+Reunion Tower,concrete,Dallas,170.69000244141,1978
+Museum Tower,concrete,Dallas,170.67999267578,2013
+Blue Diamond Tower,concrete,Miami Beach,170.38999938965,2000
+Green Diamond Tower,concrete,Miami Beach,170.38999938965,2000
+South Park Tower,concrete,New York City,170.0,1986
+100 United Nations Plaza,concrete,New York City,169.7799987793,1986
+Continental Can Building,steel,New York City,169.7799987793,1962
+The Parkshore,concrete,Chicago,169.4700012207,1991
+North Harbor Tower,concrete,Chicago,169.4700012207,1988
+VDARA,concrete,Las Vegas,169.4700012207,2009
+State of Georgia Building,steel,Atlanta,169.4700012207,1967
+Leveque Tower,steel,Columbus,169.30000305176,1927
+Reuters Building,steel,New York City,169.19999694824,2001
+Civic Opera Building,steel,Chicago,169.16999816895,1929
+330 Madison Avenue,steel,New York City,169.16999816895,1964
+Equitable Building,steel,New York City,169.16000366211,1915
+Paramount at Edgewater Square,concrete,Miami,169.13999938965,2009
+Harbor Point,concrete,Chicago,169.0,1975
+Tower 111,concrete,New York City,169.0,2011
+50 Biscayne,concrete,Miami,168.86000061035,2007
+Marriott Marquis Hotel,concrete,Atlanta,168.86000061035,1985
+Quantum on the Bay South Tower,concrete,Miami,168.86000061035,2008
+The Belvedere,concrete,New York City,168.86000061035,1999
+Streeter Place,concrete,Chicago,168.75999450683997,2009
+Newberry Plaza,concrete,Chicago,168.55999755859,1974
+Michigan Plaza South,concrete,Chicago,168.55999755859,1985
+1133 Avenue of the Americas,steel,New York City,168.25,1970
+One Sansome Street,steel,San Francisco,168.0,1984
+Pittsfield Building,steel,Chicago,167.9700012207,1927
+Unysys Building,steel,New York City,167.94999694824,1963
+Trump Palace,concrete,Sunny Isles Beach,167.94999694824,2005
+Downtown by Philippe Starck,steel,New York City,167.94999694824,1927
+AT&T Long Lines Building,steel,New York City,167.94999694824,1974
+Hyatt Times Square,concrete,New York City,167.63999938965,2013
+Acqualina Ocean Residences,concrete,Sunny Isles Beach,167.63999938965,2004
+The Biltmore,concrete,New York City,167.63999938965,2003
+WEDGE International Tower,steel,Houston,167.63999938965,1983
+Trump Royale,concrete,Sunny Isles Beach,167.63999938965,2008
+Sheraton Dallas Hotel Central Tower,steel,Dallas,167.63999938965,1959
+KBR Tower,steel,Houston,167.63999938965,1973
+The Tower at 15 Central Park West,concrete,New York City,167.63999938965,2008
+Bankers Trust West Annex,steel,New York City,167.0299987793,1971
+50 United Nations Plaza,concrete,New York City,167.0,2015
+455 North Park Drive ?Loews Chicago Hotel,concrete,Chicago,166.57000732422,2015
+The Corinthian,concrete,New York City,166.41999816895,1988
+Wells Fargo Center,steel,Portland,166.41999816895,1973
+Transportation Building,steel,New York City,166.11999511719,1928
+Jade Ocean,concrete,Sunny Isles Beach,166.0,2009
+Park Millennium,concrete,Chicago,165.88000488281,2002
+The Galleria,concrete,New York City,165.80000305176,1975
+Bank of America Fifth Avenue Plaza,steel,Seattle,165.50999450683997,1981
+Opera Tower,concrete,Miami,165.5,2007
+2 Gold Street,concrete,New York City,165.5,2005
+AMLI River North,concrete,Chicago,165.47999572754,2013
+220 Riverside Boulevard At Trump Place,concrete,New York City,165.25999450683997,2003
+17 State Street,steel,New York City,165.25,1988
+Viceroy,concrete,Miami,165.19999694824,2009
+Grand Central Plaza,steel,New York City,165.19999694824,1973
+One Rincon Hill North Tower,steel,San Francisco,165.0,2014
+Ritz Hotel Tower,steel,New York City,164.89999389648,1926
+1285 Avenue of the Americas,steel,New York City,164.60000610352,1960
+"Eiffel Tower, Paris Las Vegas",steel,Las Vegas,164.60000610352,1998
+14 Wall,steel,New York City,164.58999633789,1912
+Mandarin Oriental Hotel Las Vegas,mixed/composite,Las Vegas,164.28999328613,2009
+RBC Plaza,concrete,Minneapolis,164.13999938965,1992
+"Vizcayne, North Tower",concrete,Miami,164.0,2008
+"Vizcayne, South Tower",concrete,Miami,164.0,2008
+Two International Place,steel,Boston,164.0,1993
+Lefcourt Colonial Building,steel,New York City,163.97999572754,1929
+Shaklee Terrace Building,steel,San Francisco,163.97999572754,1982
+Tribeca Tower,concrete,New York City,163.67999267578,1990
+Quantum on the Bay North Tower,concrete,Miami,163.38000488281,2008
+U.S. Bancorp Tower,steel,Portland,163.38000488281,1983
+901 Fifth Avenue,steel,Seattle,163.38000488281,1973
+The Pinnacle,concrete,Chicago,163.07000732422,2004
+LaSalle National Bank,steel,Chicago,163.07000732422,1934
+Cathedral of Learning,steel,Pittsburgh,163.07000732422,1936
+Ernst & Young Plaza,steel,Los Angeles,162.75999450683997,1986
+2929 Weslayan,concrete,Houston,162.5,2015
+1700 Broadway,steel,New York City,162.46000671387,1969
+One America Tower,steel,Indianapolis,162.46000671387,1982
+Trump Plaza Residences,concrete,Jersey City,162.16000366211,2008
+Westin New York at Times Square,concrete,New York City,162.16000366211,2002
+DuMont Building,steel,New York City,162.16000366211,1931
+The Brooklyner,concrete,New York City,162.0,2010
+515 Park Avenue,concrete,New York City,162.0,1999
+Park Place Tower,concrete,Chicago,161.85000610352,1971
+One North LaSalle Street,steel,Chicago,161.55000305176,1930
+William Green Building,steel,Columbus,161.55000305176,1990
+70 Columbus,concrete,Jersey City,161.38999938965,2015
+Elysees Condominiums,concrete,Chicago,161.24000549316003,1973
+Legg Mason Building,concrete,Baltimore,161.24000549316003,1973
+Tower at Erieview,steel,Cleveland,161.24000549316003,1964
+First Market Tower,steel,San Francisco,161.24000549316003,1972
+McKesson Plaza,steel,San Francisco,161.24000549316003,1969
+Jade at Brickell Bay,concrete,Miami,160.94000244141,2004
+The Metropolis,concrete,New York City,160.94000244141,2001
+William Beaver House,concrete,New York City,160.7799987793,2010
+North American Plywood Building,steel,New York City,160.33000183105,1972
+Plaza on Brickell Tower II,concrete,Miami,160.0,2007
+Hotel Pierre,steel,New York City,160.0,1928
+767 3rd Avenue,steel,New York City,160.0,1980
+River Plaza,concrete,Chicago,159.7200012207,1977
+Citibank Building,steel,New York City,159.7200012207,1961
+Amazon Tower I,mixed/composite,Seattle,159.7200012207,2016
+425 Market Street,steel,San Francisco,159.69999694824,1973
+35 East Wacker Drive,steel,Chicago,159.41000366211,1927
+Pennzoil Place I,mixed/composite,Houston,159.41000366211,1976
+Pennzoil Place II,mixed/composite,Houston,159.41000366211,1976
+Mercantile Building,steel,Dallas,159.41000366211,1943
+Kemper Building,steel,Chicago,159.11000061035,1962
+825 Third Avenue,steel,New York City,159.11000061035,1969
+Mather Tower,steel,Chicago,158.89999389648,1928
+Atelier,concrete,New York City,158.80000305176,2007
+Santa Maria,concrete,Miami,158.5,1997
+Three Mellon Center,steel,Pittsburgh,158.5,1951
+10 South Wacker,concrete,Chicago,158.5,1987
+30 South Wacker,concrete,Chicago,158.5,1983
+One Federal Street,steel,Boston,158.5,1976
+26 Broadway,steel,New York City,158.5,1924
+Newsweek Building,steel,New York City,158.0,1931
+RRI Energy Plaza,concrete,Houston,158.0,2003
+The Residences at the Ritz-Carlton,concrete,Philadelphia,157.88999938965,2009
+The Downtown Club,steel,New York City,157.88999938965,1930
+Palms Place,concrete,Las Vegas,157.75999450683997,2008
+The Columbian,concrete,Chicago,157.66000366211,2008
+TCW Tower,steel,Los Angeles,157.58000183105,1990
+785 8th Avenue,concrete,New York City,157.44000244141,2009
+191 North Wacker Drive,mixed/composite,Chicago,157.41000366211,2002
+Highpoint Condominiums,concrete,New York City,157.2799987793,1988
+Union Bank Plaza,steel,Los Angeles,157.2799987793,1968
+Frost Bank Tower,concrete,Austin,157.19999694824,2004
+401 East Ontario Street,concrete,Chicago,156.9700012207,1990
+Sterling Drug Company Building,steel,New York City,156.9700012207,1964
+Seagram Building,steel,New York City,156.9700012207,1958
+The Streeter,concrete,Chicago,156.66999816895,2007
+Rainier Tower,steel,Seattle,156.66999816895,1977
+1214 Fifth Avenue,concrete,New York City,156.41000366211,2012
+600 North Lake Shore Drive - South Tower,concrete,Chicago,156.36000061035,2009
+Bank of New York Building,steel,New York City,156.36000061035,1927
+Park Tower Condominiums,concrete,Chicago,156.30999755859,1973
+The Ivy,concrete,Miami,156.16000366211,2008
+Millennium Towers North,steel,New York City,156.05999755859,1930
+One Hanson Place,steel,New York City,156.05999755859,1929
+1407 Broadway,steel,New York City,156.05999755859,1950
+International Building,steel,New York City,156.05999755859,1935
+LaSalle-Wacker Building,steel,Chicago,156.05999755859,1930
+437 Madison Avenue,steel,New York City,156.05999755859,1967
+Bryan Tower,steel,Dallas,156.05999755859,1973
+Fourth and Madison Building,mixed/composite,Seattle,156.05999755859,2003
+Continental Building,steel,New York City,155.75999450683997,1931
+1155 Avenue of the Americas,steel,New York City,155.75999450683997,1984
+K & L Gates Center,steel,Pittsburgh,155.75999450683997,1968
+Harris Bank Bank Addition II,steel,Chicago,155.44999694824,1974
+Liberty Plaza,concrete,New York City,155.38999938965,2004
+Bank of America Building,steel,Baltimore,155.14999389648,1924
+KOIN Center,concrete,Portland,155.14999389648,1984
+Hudson Greene East Tower,concrete,Jersey City,155.13999938965,2010
+215 West,concrete,Chicago,155.05999755859,2010
+BrickellHouse,concrete,Miami,155.03999328613,2014
+Renaissance Center 100 Tower,concrete,Detroit,155.0,1976
+Renaissance Center 200 Tower,concrete,Detroit,155.0,1976
+Renaissance Center 300 Tower,concrete,Detroit,155.0,1976
+Renaissance Center 400 Tower,concrete,Detroit,155.0,1976
+One Beacon Street,steel,Boston,154.5,1972
+United Nations Secretariat Building,steel,New York City,154.30000305176,1953
+810 7th Avenue,steel,New York City,154.22999572754,1970
+10 Universal City Plaza,steel,Los Angeles,154.22999572754,1984
+400 East Ohio Street,concrete,Chicago,154.0,1982
+One United Nations Plaza,steel,New York City,153.92999267578,1975
+Two United Nations Plaza,steel,New York City,153.92999267578,1981
+One Indiana Square,steel,Indianapolis,153.61999511719,1969
+Fifth Street Towers II,mixed/composite,Minneapolis,153.4700012207,1988
+Vern Riffe Center for Govermnment and the Arts,steel,Columbus,153.4700012207,1989
+Johns-Manville Building,steel,New York City,153.32000732422,1931
+Bank of America Plaza,steel,Charlotte,153.32000732422,1974
+60 Broad Street,steel,New York City,153.32000732422,1962
+Carbide & Carbon Building,steel,Chicago,153.32000732422,1929
+Lefcourt National Building,steel,New York City,153.32000732422,1928
+State Street Financial Center,steel,Boston,153.32000732422,2003
+Met 2 Marriott Marquis,concrete,Miami,153.07000732422,2010
+El Paso Energy Building,steel,Houston,153.0,1962
+One Superior Place,concrete,Chicago,152.91000366211,1999
+Hudson Greene West Tower,concrete,Jersey City,152.82000732422,2010
+Sheraton New York,concrete,New York City,152.71000671387,1962
+Wind,concrete,Miami,152.71000671387,2008
+120 North LaSalle,concrete,Chicago,152.71000671387,1992
+World Apparel Center,steel,New York City,152.71000671387,1968
+10 South LaSalle,mixed/composite,Chicago,152.71000671387,1986
+One Park Place,concrete,Houston,152.71000671387,2009
+Viewpoint,concrete,Atlanta,152.69999694824,2008
+International Gem Tower,steel,New York City,152.66000366211,2013
+1450 BRICKELL,concrete,Miami,152.5299987793,2010
+One Columbus Place Tower I,concrete,New York City,152.39999389648,1999
+One Columbus Place Tower II,concrete,New York City,152.39999389648,1999
+Sky Las Vegas,concrete,Las Vegas,152.39999389648,2007
+1818 Market Street,steel,Philadelphia,152.39999389648,1974
+28 State Street,steel,Boston,152.39999389648,1970
+Telesis Tower,steel,San Francisco,152.39999389648,1982
+Memorial Hermann Tower,concrete,Houston,152.39999389648,2009
+Four World Financial Center,steel,New York City,152.39999389648,1986
+One America Plaza,steel,San Diego,152.39999389648,1991
+The Tides,concrete,Chicago,152.35000610352,2008
+200 South Wacker,concrete,Chicago,152.30000305176,1981
+The St. James,concrete,Philadelphia,151.83999633789,2004
+Barclay-Vesey Building,steel,New York City,151.78999328613,1926
+Parkview West,concrete,Chicago,151.63999938965,2008
+Ameriprise Financial Center,mixed/composite,Minneapolis,151.63999938965,2000
+80 Pine Street,steel,New York City,151.5,1960
+500 North Lake Shore Drive,concrete,Chicago,151.49000549316003,2013
+Manchester Grand Hyatt Hotel,concrete,San Diego,151.49000549316003,1992
+The Platinum,concrete,New York City,151.17999267578,2008
+Financial Times Building,steel,New York City,151.17999267578,1965
+Marriott's Custom House,steel,Boston,151.17999267578,1915
+Guardian Building,steel,Detroit,151.0299987793,1929
+20 Pine,steel,New York City,151.0,1928
+55 West Monroe,concrete,Chicago,150.91999816895,1980
+Ontario Place,concrete,Chicago,150.88000488281,1983
+Avenue Brickell Tower,concrete,Miami,150.88000488281,2007
+333 Bush Street,steel,San Francisco,150.88000488281,1986
+PNC Tower,steel,Cincinnati,150.88000488281,1913
+John Hancock Building,steel,Boston,150.88000488281,1949
+The Ritz-Carlton Residences,concrete,Chicago,150.85000610352,2012
+50 East Chestnut Street,concrete,Chicago,150.72999572754,2008
+Icon Bay,concrete,Miami,150.57000732422,2015
+Hilton San Francisco Union Square,steel,San Francisco,150.27000427246,1971
+1000 Second Avenue,steel,Seattle,150.27000427246,1986
+Fuller Building,steel,New York City,150.0,1929
+Akoya Condominiums,concrete,Miami Beach,149.96000671387,2004
+Loews Philadelphia Hotel,steel,Philadelphia,149.96000671387,1932
+Pacific Gas & Electric Building,steel,San Francisco,149.96000671387,1971
+Target Plaza South,mixed/composite,Minneapolis,149.88999938965,2001
+200 Riverside Boulevard At Trump Place,concrete,New York City,149.80999755859,1999
+Chelsea Stratus,concrete,New York City,149.66000366211,2008
+Twelve Centennial Park Tower I,concrete,Atlanta,149.66000366211,2007
+CBS Building,concrete,New York City,149.66000366211,1965
+Constellation Place,steel,Los Angeles,149.5,2003
+235 West Van Buren,concrete,Chicago,149.41000366211,2010
+Hess Tower,concrete,Houston,149.35000610352,2010
+33 Arch Street,steel,Boston,149.05000305176,2004
+Hyatt Regency Denver at the Colorado Convention Center,concrete,Denver,149.0,2005
+One Rockefeller Plaza,steel,New York City,149.0,1937
+The Bristol,concrete,Chicago,148.74000549316003,2000
+1075 Peachtree Office Tower,concrete,Atlanta,148.74000549316003,2010
+333 Wacker Drive,steel,Chicago,148.57000732422,1983
+50 California Street,steel,San Francisco,148.44000244141,1972
+Henry M. Jackson Federal Building,mixed/composite,Seattle,148.44000244141,1974
+555 Mission Street,steel,San Francisco,148.44000244141,2008
+Espirito Santo Plaza,concrete,Miami,148.39999389648,2004
+Park Avenue Condominiums,concrete,Atlanta,148.13999938965,2000
+Wolf Point West Tower,concrete,Chicago,148.08000183105,2016
+THEHotel,concrete,Las Vegas,147.92999267578,2003
+Terminus 100,concrete,Atlanta,147.91000366211,2007
+Grant Building,steel,Pittsburgh,147.83000183105,1930
+McGraw-Hill Building,steel,New York City,147.83000183105,1931
+99 Washington Street,concrete,New York City,147.7799987793,2015
+Regalia,concrete,Sunny Isles Beach,147.75,2015
+One US Bank Plaza,steel,St. Louis,147.60000610352,1976
+St. Regis San Francisco,concrete,San Francisco,147.5299987793,2005
+Brickell World Plaza at 600 Brickell,mixed/composite,Miami,147.5299987793,2011
+Miami Center,steel,Miami,147.52000427246,1983
+1 Bank of America Center,mixed/composite,Charlotte,147.52000427246,2010
+Portofino Tower,concrete,Miami Beach,147.5,1997
+Panorama Tower III,concrete,Las Vegas,147.32000732422,2009
+Spire,concrete,Denver,147.2200012207,2009
+Chase Tower,steel,Phoenix,147.2200012207,1972
+666 5th Avenue,steel,New York City,147.2200012207,1957
+Asia,concrete,Miami,147.2200012207,2007
+Excelsior House,concrete,New York City,147.0,1967
+Brickell on the River North Tower,concrete,Miami,146.91999816895,2005
+Kansas City Power & Light Building,steel,Kansas City,146.61000061035,1931
+KPMG Centre,steel,Dallas,146.61000061035,1980
+The Regatta,concrete,Chicago,146.44999694824,2007
+Three Tequesta Point,concrete,Miami,146.30000305176,2001
+160 Madison Avenue,concrete,New York City,146.30000305176,2015
+33 North LaSalle,steel,Chicago,146.0,1930
+The Century,concrete,Los Angeles,145.69999694824,2010
+Paramount at Buckhead,concrete,Atlanta,145.69999694824,2004
+Consolidated Gas Building,steel,New York City,145.69999694824,1928
+CassaNY,concrete,New York City,145.63999938965,2010
+Summit on Lake,concrete,Chicago,145.53999328613,2014
+Lincoln Park 2550,concrete,Chicago,145.53999328613,2012
+225 Franklin Street,steel,Boston,145.38999938965,1966
+The O'Quinn Medical Tower at St. Luke's,concrete,Houston,145.30000305176,1990
+W Austin Hotel & Residences,concrete,Austin,145.27000427246,2010
+Turnberry Place I,concrete,Las Vegas,145.24000549316003,2001
+Turnberry Place II,concrete,Las Vegas,145.24000549316003,2002
+Turnberry Place III,concrete,Las Vegas,145.24000549316003,2004
+Turnberry Place IV,concrete,Las Vegas,145.24000549316003,2006
+Latitude on the River,concrete,Miami,145.19000244141,2007
+100 Pine Center,steel,San Francisco,145.10000610352,1972
+Bankers Building,steel,Chicago,145.08999633789,1927
+The Pinnacle,concrete,Sunny Isles Beach,145.08999633789,1998
+Daily News Building,steel,New York City,145.08999633789,1930
+Mutual of America Building,steel,New York City,145.08999633789,1995
+45 Fremont Center,steel,San Francisco,145.0,1979
+400 Park Avenue South,concrete,New York City,144.97999572754,2015
+135 West 52nd Street,concrete,New York City,144.7799987793,2015
+Electra,mixed/composite,San Diego,144.7799987793,2008
+The Murano,concrete,Philadelphia,144.7799987793,2008
+Book Tower,steel,Detroit,144.7799987793,1926
+The Signature at MGM Grand Tower I,concrete,Las Vegas,144.7799987793,2006
+The Signature at MGM Grand Tower II,concrete,Las Vegas,144.7799987793,2006
+The Signature at MGM Grand Tower III,concrete,Las Vegas,144.7799987793,2007
+Metropolitan Tower,steel,Chicago,144.7799987793,1924
+Cook County Administration Building,concrete,Chicago,144.7799987793,1964
+Koppers Building,steel,Pittsburgh,144.7799987793,1929
+Plaza VII,steel,Minneapolis,144.63999938965,1987
+Plaza 440,concrete,Chicago,144.47999572754,1991
+American Furniture Mart,mixed/composite,Chicago,144.47999572754,1926
+One South Broad,steel,Philadelphia,144.36999511719,1932
+Marymount University Dormitory,concrete,New York City,144.16999816895,2001
+12 Metrotech Center,steel,New York City,144.16999816895,2005
+333 Market Building,steel,San Francisco,144.0,1979
+505 West 37th Street East Tower,concrete,New York City,143.86999511719,2010
+Park Avenue Place,concrete,New York City,143.86999511719,2004
+United States Plywood Building,steel,New York City,143.86999511719,1961
+The Link,concrete,New York City,143.55999755859,2007
+325 5th Avenue,concrete,New York City,143.55999755859,2006
+Hotel InterContinental,steel,Chicago,143.55999755859,1929
+"Continuum on South Beach, South Tower",concrete,Miami Beach,143.5,2002
+1100 Millicento Residences,concrete,Miami,143.30000305176,2015
+Embassy Suites Times Square,mixed/composite,New York City,143.25999450683997,1990
+Aire,concrete,New York City,143.25999450683997,2010
+Wyndham New Yorker Hotel,steel,New York City,143.25999450683997,1930
+City Place,concrete,Chicago,143.25999450683997,1990
+Hampshire House,steel,New York City,143.25999450683997,1931
+"Roosevelt University Academic, Student Life Residence Center",mixed/composite,Chicago,143.0,2012
+3630 Peachtree Road,concrete,Atlanta,142.94999694824,2009
+The Carlyle,concrete,Minneapolis,142.85000610352,2007
+Columbus Plaza,concrete,Chicago,142.64999389648,1980
+Scripps Center,steel,Cincinnati,142.64999389648,1990
+U.S. Bancorp Center,steel,Minneapolis,142.5,2000
+AT&T Tower,steel,Minneapolis,142.33999633789,1991
+Coast at Lakeshore East,concrete,Chicago,142.2200012207,2013
+The Sterling,concrete,Chicago,142.03999328613,2001
+650 California Street,steel,San Francisco,142.0,1964
+Qwest Plaza,steel,Seattle,142.0,1976
+Allure Las Vegas Tower I,concrete,Las Vegas,141.96000671387,2007
+The Marc,concrete,New York City,141.55999755859,2004
+Franklin County Courthouse,steel,Columbus,141.39999389648,1991
+Tribune Tower,steel,Chicago,141.11999511719,1925
+200 North Dearborn Apartments,concrete,Chicago,141.07000732422,1989
+Randolph Tower,steel,Chicago,141.02000427246,1929
+Victory Apartments,concrete,New York City,140.91999816895,2002
+Smith Tower,steel,Seattle,140.82000732422,1914
+Montague-Court Building,steel,New York City,140.82000732422,1927
+Presidential Towers I,concrete,Chicago,140.60000610352,1985
+Presidential Towers II,concrete,Chicago,140.60000610352,1985
+Presidential Towers III,concrete,Chicago,140.60000610352,1985
+Presidential Towers IV,concrete,Chicago,140.60000610352,1985
+Jumeirah Essex House,steel,New York City,140.50999450683997,1931
+Trump Towers I,concrete,Sunny Isles Beach,140.5,2008
+Trump Towers II,concrete,Sunny Isles Beach,140.5,2008
+Trump Towers III,concrete,Sunny Isles Beach,140.5,2008
+480 Washington Boulevard,steel,Jersey City,140.5,2004
+The New York,concrete,Chicago,140.49000549316003,1986
+One Miami East Tower,concrete,Miami,140.21000671387,2005
+8 Stone Street,concrete,New York City,139.69999694824,2010
+Palms Fantasy Tower,concrete,Las Vegas,139.60000610352,2006
+The Residences at Grand Plaza,concrete,Chicago,139.60000610352,2003
+600 Fairbanks Court,concrete,Chicago,139.5,2008
+66 Rockwell Place,concrete,New York City,139.30000305176,2014
+Swissotel Chicago,concrete,Chicago,139.28999328613,1989
+Equitable Building,steel,Chicago,139.28999328613,1965
+One Union Square,steel,Seattle,139.0,1981
+Trump Parc Condominiums,steel,New York City,139.0,1930
+Atlantic Wharf,mixed/composite,Boston,139.0,2011
+Kingsbury Plaza,concrete,Chicago,138.83999633789,2007
+The Monaco North Tower,concrete,Jersey City,138.69999694824,2011
+The Monaco South Tower,concrete,Jersey City,138.69999694824,2011
+Olive 8,concrete,Seattle,138.69000244141,2009
+The Pinnacle Marina Tower,concrete,San Diego,138.67999267578,2005
+Paramount Building,steel,New York City,138.67999267578,1927
+Accenture Tower,concrete,Minneapolis,138.52000427246,1987
+400 North LaSalle,concrete,Chicago,138.42999267578,2005
+Equitable Life Building,steel,Los Angeles,138.39999389648,1969
+Trump SoHo Hotel Condominium,concrete,New York City,138.38000488281,2010
+Eleven-Eleven Third Avenue,steel,Seattle,138.38000488281,1980
+City Hall,steel,Los Angeles,138.38000488281,1928
+909 Walnut,steel,Kansas City,138.30000305176,1931
+717 Texas Avenue,concrete,Houston,138.19999694824,2003
+ABN AMRO Plaza,mixed/composite,Chicago,138.13000488281,2003
+Turnberry Towers - East Tower,concrete,Las Vegas,138.08000183105,2007
+Turnberry Towers - West Tower,concrete,Las Vegas,138.08000183105,2008
+600 North Lake Shore Drive - North Tower,concrete,Chicago,138.08000183105,2008
+53rd at Third,steel,New York City,138.08000183105,1986
+Spire,concrete,Atlanta,138.0,2005
+510 Madison,steel,New York City,137.86999511719,2010
+AT&T Center,steel,Los Angeles,137.80000305176,1965
+Roanoke Building,steel,Chicago,137.77000427246,1927
+The Dylan,concrete,New York City,137.77000427246,2013
+High Street Tower,steel,Boston,137.77000427246,1990
+1065 Avenue of the Americas,steel,New York City,137.4700012207,1957
+Buckhead Grand,concrete,Atlanta,137.4700012207,2004
+Metropolitan Life North Building,steel,New York City,137.4700012207,1950
+7 Bryant Park,mixed/composite,New York City,137.41000366211,2015
+Riverbend Condominiums,concrete,Chicago,137.38999938965,2002
+The Shoreham,concrete,Chicago,137.16000366211,2005
+Eugenie Terrace on the Park,concrete,Chicago,137.16000366211,1987
+Tower 31,concrete,New York City,137.16000366211,2006
+47 East 34th Street,concrete,New York City,137.16000366211,2009
+Gateway Center III,mixed/composite,Chicago,137.16000366211,1971
+100 Summer Street,steel,Boston,137.16000366211,1974
+Three Wells Fargo Center,concrete,Charlotte,137.16000366211,2000
+One Cleveland Center,steel,Cleveland,137.16000366211,1983
+Westin Seattle North Tower,steel,Seattle,137.0,1982
+Veer Towers East,mixed/composite,Las Vegas,137.0,2010
+Veer Towers West,mixed/composite,Las Vegas,137.0,2010
+Hubbard Place,concrete,Chicago,136.96000671387,2013
+One Miami West Tower,concrete,Miami,136.86000061035,2005
+200 Squared,concrete,Chicago,136.86000061035,2010
+Millennium Point,concrete,New York City,136.86000061035,2001
+Chateau Beach Residences,concrete,Sunny Isles Beach,136.80000305176,2015
+50 Broadway,steel,New York City,136.55000305176,1927
+Adams Express Building,steel,New York City,136.55000305176,1916
+W Minneapolis - The Foshay,steel,Minneapolis,136.55000305176,1929
+1250 Broadway,steel,New York City,136.30000305176,1970
+La Perla Ocean Residences,concrete,Sunny Isles Beach,136.25,2006
+Ivy Tower,concrete,New York City,136.25,2003
+Ann & Robert H. Lurie Children's Hospital of Chicago,mixed/composite,Chicago,136.19000244141,2012
+University Club Tower,concrete,Milwaukee,136.0,2007
+Greenwich Club Residences,steel,New York City,135.94000244141,1931
+Manchester Grand Hyatt Seaport,steel,San Diego,135.94000244141,2003
+300 South Wacker,concrete,Chicago,135.63999938965,1971
+1400 Broadway,steel,New York City,135.63999938965,1931
+120 Wall Street,steel,New York City,135.60000610352,1930
+Fisher Building,steel,Detroit,135.4700012207,1928
+Premier on Pine,concrete,Seattle,135.33000183105,2015
+Bridge Tower Place,concrete,New York City,135.0299987793,2001
+100 Park Avenue,steel,New York City,135.0299987793,1949
+Element New York Times Square West,concrete,New York City,135.0,2010
+Daily Commerce Building,steel,New York City,135.0,1931
+City Hall,steel,Kansas City,135.0,1937
+Optima Chicago Center,concrete,Chicago,134.89999389648,2014
+Lucerne Apartments,concrete,New York City,134.88000488281,1991
+Harriman Building,steel,New York City,134.7200012207,1928
+Met 1,concrete,Miami,134.11000061035,2007
+Fifteen Twenty-One Second Avenue,concrete,Seattle,134.11000061035,2008
+Cirrus,concrete,Seattle,134.10000610352,2015
+The Olivia,mixed/composite,New York City,134.10000610352,2001
+Insignia South Tower,concrete,Seattle,134.0,2015
+The Mondrian,concrete,New York City,133.80999755859,1992
+One Park Tower,steel,Atlanta,133.80999755859,1961
+W Dallas Victory Hotel & Residences,concrete,Dallas,133.80000305176,2006
+Wrigley Building,steel,Chicago,133.50999450683997,1922
+Park Laurel Condominiums,concrete,New York City,133.5,2001
+Willoughby Tower,steel,Chicago,133.5,1929
+The Crest,steel,New York City,133.5,1929
+Borden Building,steel,Columbus,133.5,1974
+Empire Trust Company Building,steel,New York City,133.5,1927
+One California,steel,San Francisco,133.5,1969
+Cadillac Tower,steel,Detroit,133.19999694824,1927
+Residence Inn New York Manhattan/Times Square,concrete,New York City,133.14999389648,2006
+Cira Centre,steel,Philadelphia,133.10000610352,2005
+David Stott Building,steel,Detroit,133.08000183105,1929
+Crystal Point,concrete,Jersey City,132.89999389648,2009
+San Francisco Marriott,steel,San Francisco,132.89999389648,1989
+750 3rd Avenue,steel,New York City,132.88999938965,1958
+Annenberg Pavillion,steel,New York City,132.88999938965,1974
+140 New Montgomery Street,steel,San Francisco,132.69999694824,1925
+Russ Building,steel,San Francisco,132.60000610352,1927
+Archstone Midtown West,concrete,New York City,132.58999633789,1998
+745 5th Avenue,steel,New York City,132.58999633789,1931
+180 North LaSalle,concrete,Chicago,132.58000183105,1972
+Spring,concrete,Austin,132.28999328613,2009
+Fontainebleau Tower Suites,concrete,Miami Beach,132.25,2005
+Silver Tower,concrete,Chicago,132.08000183105,2010
+5900 Wilshire,steel,Los Angeles,132.0,1971
+225 West Wacker,concrete,Chicago,132.0,1989
+The Vanderbilt,concrete,New York City,131.97999572754,1986
+ITT Building,steel,New York City,131.97999572754,1928
+Loft 2,concrete,Miami,131.97999572754,2007
+Chrysler Building East,steel,New York City,131.74000549316003,1999
+535 5th Avenue,steel,New York City,131.67999267578,1926
+Bush Tower,steel,New York City,131.67999267578,1917
+The Savoy Condominiums,concrete,New York City,131.66999816895,1986
+218 West 35th Street,concrete,New York City,131.66999816895,2015
+BKLYN Air,concrete,New York City,131.66999816895,2014
+1130 South Michigan,concrete,Chicago,131.36999511719,1967
+Carl B. Stokes Federal Courthouse,steel,Cleveland,131.07000732422,2002
+Baltimore Marriott Waterfront Hotel,concrete,Baltimore,131.05999755859,2001
+Memorial Hermann Medical Plaza,concrete,Houston,131.03999328613,2007
+McClurg Court Center A,concrete,Chicago,131.0,1971
+McClurg Court Center B,concrete,Chicago,131.0,1971
+Turnberry Ocean Colony North Tower,concrete,Sunny Isles Beach,131.0,2007
+Turnberry Ocean Colony South Tower,concrete,Sunny Isles Beach,131.0,2008
+1700 Market Street,concrete,Philadelphia,131.0,1968
+Fred F. French Building,steel,New York City,130.75999450683997,1927
+AT&T Building,steel,New York City,130.75999450683997,1930
+Linc LIC,concrete,New York City,130.75,2013
+First Hawaiian Center,steel,Honolulu,130.75,1996
+1555 North Astor,concrete,Chicago,130.55999755859,1975
+One Carnegie Hill,concrete,New York City,130.5,2006
+712 Main Street,steel,Houston,130.46000671387,1929
+101 Warren Street,concrete,New York City,130.46000671387,2008
+Manhattan Plaza Apartments I,concrete,New York City,130.44999694824,1977
+Manhattan Plaza Apartments II,concrete,New York City,130.44999694824,1977
+Harlem River Park Tower I,concrete,New York City,130.44999694824,1975
+Harlem River Park Tower II,concrete,New York City,130.44999694824,1975
+Toren,steel,New York City,130.25,2009
+Marbella Apartments,concrete,Jersey City,130.19999694824,2003
+Finland House,concrete,New York City,130.14999389648,1970
+Sheraton Kansas City Hotel at Crown Center,steel,Kansas City,130.0,1980
+Evo at Cira Centre South,concrete,Philadelphia,130.0,2014
+AMA Building,steel,Chicago,130.0,1990
+500 Brickell East Tower,concrete,Miami,129.85000610352,2007
+500 Brickell West Tower,concrete,Miami,129.85000610352,2007
+Eugenie Square,concrete,Chicago,129.85000610352,1972
+The Spires,concrete,Houston,129.85000610352,1983
+The Carlyle,steel,New York City,129.85000610352,1931
+Milwaukee Center,concrete,Milwaukee,129.85000610352,1988
+Waihonua at Kewalo,concrete,Honolulu,129.80000305176,2015
+Ocean Two Condominiums I,concrete,Sunny Isles Beach,129.80000305176,2001
+Ocean Two Condominiums II,concrete,Sunny Isles Beach,129.80000305176,2001
+The Promenade,concrete,New York City,129.80000305176,1987
+Fairmont Hotel,concrete,Chicago,129.77000427246,1987
+The Rushmore,concrete,New York City,129.53999328613,2008
+Avenue,concrete,Charlotte,129.53999328613,2007
+Blue on the Bay,concrete,Miami,129.53999328613,2005
+1835 Market Street,steel,Philadelphia,129.53999328613,1986
+Yorkville Towers,concrete,New York City,129.5,1975
+505 Montgomery,steel,San Francisco,129.5,1988
+Sky55,concrete,Chicago,129.41000366211,2006
+Harbor Club East,concrete,San Diego,129.24000549316003,1992
+Harbor Club West,concrete,San Diego,129.24000549316003,1992
+Time Warner Building,steel,New York City,129.24000549316003,1947
+Whitehall Building Annex,steel,New York City,129.24000549316003,1910
+One PNC Plaza,steel,Pittsburgh,129.24000549316003,1972
+Mortimer B. Zuckerman Research Center,steel,New York City,129.24000549316003,2008
+1800 Club,concrete,Miami,129.05000305176,2007
+Rio Condominium & Spa,concrete,New York City,129.0,1986
+VUE at Brickell,concrete,Miami,129.0,2004
+Fifth Third Center,steel,Cincinnati,129.0,1969
+Brickell on the River South Tower,concrete,Miami,128.92999267578,2007
+ICON at South Beach,concrete,Miami Beach,128.92999267578,2004
+Palms Casino Hotel,concrete,Las Vegas,128.92999267578,2001
+The Bowie,concrete,Austin,128.89999389648,2015
+Rio Masquerade Tower,concrete,Las Vegas,128.86000061035,1997
+195 Broadway,steel,New York City,128.63000488281,1922
+Wells Fargo Center,steel,Salt Lake City,128.63000488281,1998
+Archstone Chelsea,concrete,New York City,128.61999511719,2004
+180 Riverside Boulevard at Trump Place,concrete,New York City,128.57000732422,1998
+Moana Pacific East Tower,concrete,Honolulu,128.5299987793,2008
+Moana Pacific West Tower,concrete,Honolulu,128.5299987793,2008
+2020 North Lincoln Park West,concrete,Chicago,128.32000732422,1971
+CenturyLink Building,steel,Minneapolis,128.30000305176,1932
+One Sutton Place North,concrete,New York City,128.16999816895,2003
+Two Sutton Place North,concrete,New York City,128.16999816895,2014
+Skybridge,concrete,Chicago,128.16999816895,2003
+Market Tower,concrete,Indianapolis,128.16999816895,1988
+2 Columbus,concrete,New York City,128.02000427246,1998
+The Infinity II,concrete,San Francisco,128.02000427246,2009
+Vantage Pointe Condominium,concrete,San Diego,128.02000427246,2009
+Park Place on Peachtree,concrete,Atlanta,128.02000427246,1986
+Justice Center,steel,Cleveland,128.02000427246,1977
+The Mark on Brickell,concrete,Miami,128.0,2001
+Panorama Tower I,concrete,Las Vegas,128.0,2006
+Panorama Tower II,concrete,Las Vegas,128.0,2008
+JPMorgan Chase Building,steel,San Francisco,128.0,2002
+LDS Office Building,steel,Salt Lake City,128.0,1973
+2828 Peachtree Luxury Condominiums,concrete,Atlanta,127.87000274658001,2002
+Federal Building,steel,Cleveland,127.70999908446998,1967
+Keola Lai,concrete,Honolulu,127.69999694824,2008
+100 East Pratt Street,steel,Baltimore,127.55000305176,1992
+Hokua at 1288 Ala Moana,concrete,Honolulu,127.41000366211,2006
+Pacifica Honolulu,concrete,Honolulu,127.40000152588001,2012
+Axis on Brickell North Tower,concrete,Miami,127.40000152588001,2008
+Axis on Brickell South Tower,concrete,Miami,127.40000152588001,2008
+The Paramount,concrete,San Francisco,127.40000152588001,2002
+80 Broad Street,steel,New York City,127.40000152588001,1931
+Pacwest Center,mixed/composite,Portland,127.40000152588001,1984
+Nauru Tower,concrete,Honolulu,127.13999938965,1992
+Alta at K Station - East Tower,concrete,Chicago,127.13999938965,2010
+Providian Financial Building,steel,San Francisco,127.0,1983
+Ko'olani,concrete,Honolulu,126.80000305176,2006
+Crown Building,steel,New York City,126.80000305176,1921
+2 East Erie,concrete,Chicago,126.48999786376999,2002
+10 East Delaware,concrete,Chicago,126.38999938965,2010
+MCI Center,steel,Los Angeles,126.30000305176,1973
+801 South Street Building A,concrete,Honolulu,126.0299987793,2015
+One Broadway on Brickell,concrete,Miami,126.0,2005
+Three Embarcadero Center,steel,San Francisco,126.0,1976
+Two Embarcadero Center,steel,San Francisco,126.0,1974
+50 Columbus,concrete,Jersey City,125.90000152588001,2007
+First Allied Plaza,steel,San Diego,125.59999847411999,2005
+"Continuum on South Beach, North Tower",concrete,Miami Beach,125.5,2002
+Ashton,concrete,Austin,125.5,2009
+The Club at Brickell Bay,concrete,Miami,125.30000305176,2004
+505 5th Avenue,concrete,New York City,125.26999664306999,2006
+MoMo,mixed/composite,Chicago,125.13999938965,2008
+Niels Eperson Building,steel,Houston,125.05000305176,1927
+52 East End Avenue,concrete,New York City,125.0,1987
+Two Tequesta Point,concrete,Miami,125.0,1999
+National City Center,concrete,Cleveland,125.0,1980
+Chemed Center,concrete,Cincinnati,125.0,1990
+One City Centre,steel,Houston,125.0,1961
+595 Market Street,concrete,San Francisco,125.0,1979
+1100 North Lake Shore Drive,concrete,Chicago,124.9700012207,1979
+Regional Enterprise Tower,steel,Pittsburgh,124.9700012207,1953
+Citylights at Queens Landing,concrete,New York City,124.87000274658001,1997
+Westin Building,steel,Seattle,124.66999816895,1981
+1270 Avenue of the Americas,steel,New York City,124.66000366211,1932
+Museum Tower,concrete,Chicago,124.63999938965,2006
+JW Marriott Convention Hotel,concrete,Austin,124.40000152588001,2015
+Malibu East,concrete,Chicago,124.36000061035,1970
+1410 Broadway,steel,New York City,124.36000061035,1931
+300 North Meridian,concrete,Indianapolis,124.36000061035,1989
+Three Nationwide Plaza,steel,Columbus,124.36000061035,1988
+Commerce Tower,steel,Kansas City,124.09999847411999,1965
+U.S. Bank Center,concrete,Phoenix,124.09999847411999,1974
+Murano Grande at Portofino,concrete,Miami Beach,124.05999755859,2003
+Carbonell Condominium,concrete,Miami,124.0,2005
+Aspira Apartments,concrete,Seattle,124.0,2010
+1010 Peachtree,concrete,Atlanta,124.0,2009
+River House Apartments,steel,New York City,123.5,1931
+DKLB BKLN,concrete,New York City,123.44999694824,2010
+2727 Kirby,concrete,Houston,123.44999694824,2009
+Wells Fargo Building,steel,Philadelphia,123.44999694824,1927
+Hilton Garden Inn,concrete,New York City,123.44000244141,2014
+Hilton Grand Vacations Club II,concrete,Las Vegas,123.40000152588001,2006
+Ocean Three Condominiums,concrete,Sunny Isles Beach,123.40000152588001,2003
+Hennepin County Government Center,steel,Minneapolis,123.23000335693001,1977
+1300 North Lake Shore Drive,concrete,Chicago,123.13999938965,1965
+West End Towers,concrete,New York City,123.13999938965,1995
+The Ritz-Carlton Philadelphia,steel,Philadelphia,123.13999938965,1930
+Time-Life Building,concrete,Chicago,123.13999938965,1969
+Hunter's Point South Tower 1,concrete,New York City,123.09999847411999,2015
+Fifty South Sixth,steel,Minneapolis,123.08999633789,2001
+The Montgomery,concrete,Chicago,123.04000091553002,1972
+Horizon Apartments,concrete,New York City,122.83999633789,1989
+Ocean 4,concrete,Sunny Isles Beach,122.83000183105,2006
+Galter Pavilion,mixed/composite,Chicago,122.68000030518,1997
+US Bank Tower,steel,Sacramento,122.59999847411999,2008
+Murano at Portofino,concrete,Miami Beach,122.5,2001
+Four Seasons Residences Austin,concrete,Austin,122.25,2010
+BMO Plaza,steel,Indianapolis,122.23000335693001,1988
+Helena,concrete,New York City,122.2200012207,2005
+One American Center,concrete,Austin,122.2200012207,1984
+1441 Broadway,steel,New York City,122.19999694824,1930
+The Mercer,concrete,Houston,122.06999969482,2003
+420 East Ohio,concrete,Chicago,122.0,1990
+100 Van Ness,steel,San Francisco,122.0,1974
+Hawaiki Tower,concrete,Honolulu,121.91999816895,1999
+One Waterfront Tower - Makai,concrete,Honolulu,121.91999816895,1990
+One Waterfront Tower - Mauka,concrete,Honolulu,121.91999816895,1990
+Buckingham Plaza,concrete,Chicago,121.91999816895,1982
+46-15 Center Boulevard,concrete,New York City,121.91999816895,2013
+Harbor Towers I,concrete,Boston,121.91999816895,1971
+Millennium Park Plaza,concrete,Chicago,121.91999816895,1982
+Oro Condominium,concrete,New York City,121.91999816895,2008
+777 North Michigan,concrete,Chicago,121.91999816895,1964
+One Logan Square,concrete,Philadelphia,121.91999816895,1983
+The Palace,concrete,Miami,121.90000152588001,1982
+420 West 42nd Street,concrete,New York City,121.90000152588001,2001
+Imperial Plaza,concrete,Honolulu,121.90000152588001,1992
+The Chatham,concrete,New York City,121.90000152588001,2000
+Southwestern Telephone Building,steel,St. Louis,121.66000366211,1926
+River View II,concrete,Chicago,121.62000274658001,2004
+75 Livingston Street,steel,New York City,121.59999847411999,1926
+The Charles,concrete,New York City,121.30999755859,2015
+One Congress Plaza,concrete,Austin,121.30999755859,1987
+1N4th,concrete,New York City,121.30000305176,2015
+Capitol at Chelsea,concrete,New York City,121.30000305176,2001
+One Maritime Plaza,steel,San Francisco,121.30000305176,1967
+James House,concrete,Chicago,121.26000213623001,1971
+OHM,concrete,New York City,121.18000030518,2009
+Westin Seattle South Tower,steel,Seattle,121.0,1969
+The Carillon Hotel & Spa North Tower,concrete,Miami Beach,121.0,2008
+Cityfront Place,concrete,Chicago,120.69999694824,1991
+Harbor Towers II,concrete,Boston,120.69999694824,1971
+Ala Moana Hotel,concrete,Honolulu,120.69999694824,1970
+Ariel East,concrete,New York City,120.69999694824,2007
+333 North Michigan,steel,Chicago,120.69999694824,1928
+10 Rittenhouse Square,concrete,Philadelphia,120.69999694824,2009
+Metcalfe Federal Building,concrete,Chicago,120.69999694824,1991
+Bank of the West Tower,steel,Sacramento,120.69999694824,2009
+Two Alliance Center,mixed/composite,Atlanta,120.51999664306999,2009
+The Pearson,concrete,Chicago,120.4700012207,2003
+Walton Colonnade,concrete,Chicago,120.40000152588001,1972
+The Plaza on Dewitt,concrete,Chicago,120.40000152588001,1966
+The Aldyn,concrete,New York City,120.40000152588001,2011
+Bayside at the Embarcadero,concrete,San Diego,120.40000152588001,2009
+The Concorde Hotel,concrete,New York City,120.40000152588001,1985
+The Grand Sutton,concrete,New York City,120.40000152588001,1990
+WaterMarke Tower,concrete,Los Angeles,120.40000152588001,2009
+Millennium Tower Residences,concrete,New York City,120.08999633789,2007
+1110 North Lake Shore Drive,concrete,Chicago,120.0,1970
+Brittany Apartments,concrete,New York City,120.0,1995
+One Wilshire Building,steel,Los Angeles,120.0,1968
+Aqua Skyline at Island Colony,concrete,Honolulu,119.80000305176,1978
+Avalon Fort Greene,concrete,New York City,119.79000091553002,2010
+Avenue Hotel,concrete,Chicago,119.79000091553002,1973
+325 LEX,concrete,New York City,119.79000091553002,2015
+Marmon Building,steel,Chicago,119.7799987793,1987
+Walker Tower,steel,New York City,119.62999725341999,2013
+Bellagio Spa Tower,concrete,Las Vegas,119.5,2004
+Plaza 400 Apartments,concrete,New York City,119.48000335693001,1967
+Marriott Hotel City Center,steel,Minneapolis,119.41000366211,1983
+East Point,concrete,Chicago,119.18000030518,1967
+420 5th Avenue,steel,New York City,119.18000030518,1989
+Park Row Building,steel,New York City,119.18000030518,1899
+11 Penn Plaza,steel,New York City,119.18000030518,1924
+The Parklane,concrete,Houston,119.0,1983
+The Metropolitan at the 9,mixed/composite,Cleveland,119.0,2015
+45-45 Center Boulevard,concrete,New York City,118.90000152588001,2013
+Planet Hollywood Las Vegas,steel,Las Vegas,118.87000274658001,2000
+20 Broad Street,steel,New York City,118.87000274658001,1956
+United States Federal Courthouse,steel,Seattle,118.87000274658001,2004
+Aria,steel,Philadelphia,118.56999969482,1929
+Unigard Financial Center,mixed/composite,Seattle,118.56999969482,1972
+The Chandler,concrete,Chicago,118.4700012207,2008
+The Lex,concrete,Chicago,118.31999969482,2010
+Union Bank of California Building,steel,San Diego,118.30000305176,1969
+The Carlyle,concrete,Chicago,118.26000213623001,1967
+Westin Bonaventure Hotel,mixed/composite,Los Angeles,118.26000213623001,1976
+DoubleTree by Hilton Grand Hotel Biscayne Bay,concrete,Miami,118.25,1978
+Loews Midtown,concrete,Atlanta,118.19000244141,2010
+Chelsea Tower,concrete,New York City,118.0,2003
+1132 Bishop Street,steel,Honolulu,118.0,1991
+The Aurora,concrete,New York City,118.0,2003
+John F. Kennedy Federal Building,steel,Boston,118.0,1967
+New York Marriott East Side,steel,New York City,117.95999908446998,1924
+1412 Broadway,steel,New York City,117.95999908446998,1927
+The Fairbanks at Cityfront Plaza,mixed/composite,Chicago,117.91000366211,2008
+Civil Courts Building,steel,St. Louis,117.69999694824,1929
+Hyatt Regency Waikiki Diamond Head Tower,concrete,Honolulu,117.65000152588001,1976
+Hyatt Regency Waikiki Ewa Tower,concrete,Honolulu,117.65000152588001,1976
+The Centria,concrete,New York City,117.65000152588001,2006
+LaSalle Plaza,concrete,Minneapolis,117.62999725341999,1991
+The Setai Hotel and Residences,concrete,Miami Beach,117.5,2004
+Northwestern Medicine 259 East Erie,mixed/composite,Chicago,117.4700012207,2014
+621 17th Street,steel,Denver,117.40000152588001,1957
+Avalon Riverview North,concrete,New York City,117.34999847411999,2007
+Liberty Tower,steel,New York City,117.34999847411999,1910
+Charles Towers South Apartments,concrete,Baltimore,117.34999847411999,1969
+200 Madison Avenue,steel,New York City,117.34999847411999,1926
+Hilton San Diego Bayfront,concrete,San Diego,117.30000305176,2008
+Wachovia Tower,concrete,Phoenix,117.30000305176,2010
+Colorado Apartments,concrete,New York City,117.0,1987
+33 Beekman Street,concrete,New York City,117.0,2015
+Everett McKinley Dirksen United States Courthouse,steel,Chicago,116.73999786376999,1964
+1100 Alakea Plaza,concrete,Honolulu,116.5,1993
+230 Peachtree Building,steel,Atlanta,116.44000244141,1965
+101 Federal Street,steel,Boston,116.30000305176,1988
+The Milan Condominium,concrete,New York City,116.26000213623001,2005
+Century Square,steel,Seattle,116.12999725341999,1986
+The Mark,concrete,San Diego,116.09999847411999,2007
+First National Bank Center,steel,San Diego,116.0,1982
+801 Tower,steel,Los Angeles,116.0,1992
+44 Monroe,concrete,Phoenix,115.81999969482,2008
+Park Tower,mixed/composite,Sacramento,115.81999969482,1991
+Harbor Court,concrete,Honolulu,115.80000305176,1994
+Oakwood Yacht Club at Brickell,concrete,Miami,115.80000305176,1998
+The Millennium,concrete,Sunny Isles Beach,115.80000305176,1998
+Sapphire Tower,concrete,San Diego,115.80000305176,2008
+Kilbourn Tower,concrete,Milwaukee,115.75,2005
+Oak Tower,concrete,Kansas City,115.51999664306999,1913
+NINE at Mary Brickell Village,concrete,Miami,115.5,2015
+535 Mission Street,mixed/composite,San Francisco,115.37000274658001,2015
+Alta at K Station - West Tower,concrete,Chicago,115.30999755859,2010
+Outer Drive East,concrete,Chicago,115.2200012207,1963
+Shell Building,steel,San Francisco,115.2200012207,1929
+The Grand Beekman,concrete,New York City,115.20999908446998,2003
+Jehovah`s Witnesses Dormitory,concrete,New York City,115.20999908446998,1995
+505 West 37th Street West Tower,concrete,New York City,115.0,2008
+Austin Hilton Covention Center Hotel,concrete,Austin,114.91000366211,2004
+99 West City Creek Condominium Tower,concrete,Salt Lake City,114.91000366211,2011
+Endeavor Condominium,concrete,Honolulu,114.90000152588001,1976
+Resolution Condominium,concrete,Honolulu,114.90000152588001,1976
+Museum Tower,concrete,Miami,114.90000152588001,1986
+Coastal States Insurance Building,steel,Atlanta,114.90000152588001,1971
+Canadian Pacific Plaza,steel,Minneapolis,114.76000213623001,1960
+JW Marriott Indianapolis Downtown,concrete,Indianapolis,114.70999908446998,2011
+Skyline on Brickell,concrete,Miami,114.66000366211,2004
+1700 East 56th Street,concrete,Chicago,114.61000061035,1968
+New York Hospital Cornell Medical Center,steel,New York City,114.61000061035,1932
+Mutual of New York Building,steel,New York City,114.59999847411999,1950
+5 Houston Center,concrete,Houston,114.5,2003
+Tapa Tower,concrete,Honolulu,114.30000305176,1982
+The One,concrete,Jersey City,114.30000305176,2015
+The Pinnacle Honolulu,concrete,Honolulu,114.30000305176,2008
+1400 Museum Park,concrete,Chicago,114.30000305176,2008
+Omni San Diego Hotel and The Metropolitan,concrete,San Diego,114.30000305176,2004
+SunTrust International Center,concrete,Miami,114.30000305176,1973
+33 West Monroe,steel,Chicago,114.30000305176,1980
+388 Market Street,steel,San Francisco,114.30000305176,1985
+Mellon Bank Center,steel,Los Angeles,114.30000305176,1982
+LPM Apartments,concrete,Minneapolis,114.09999847411999,2014
+One Lincoln Park,concrete,Denver,114.0,2009
+Trinity Court,steel,New York City,114.0,1927
+Viad Tower,mixed/composite,Phoenix,114.0,1991
+Astoria Tower,concrete,Chicago,113.87999725341999,2009
+Capitol Place,concrete,Honolulu,113.69999694824,2008
+The Watermark Waikiki,concrete,Honolulu,113.69999694824,2008
+City-County Building,steel,Indianapolis,113.45999908446998,1962
+The Windsor,concrete,Honolulu,113.40000152588001,1983
+2800 North Lake Shore Drive,concrete,Chicago,113.40000152588001,1968
+Honolulu Park Place,concrete,Honolulu,113.40000152588001,1989
+Two Renaissance Square,steel,Phoenix,113.40000152588001,1990
+Wells Fargo Plaza,steel,Phoenix,113.40000152588001,1971
+Brookdale Plaza,concrete,Chicago,113.38999938965,1990
+Renaissance Tower,steel,Sacramento,113.38999938965,1989
+Fox Tower,steel,Portland,113.38999938965,2000
+Joe Serna Junior California EPA Building,steel,Sacramento,113.38999938965,2000
+Three AT&T Plaza,steel,Dallas,113.38999938965,1928
+Meridian Condominiums,concrete,San Diego,113.09999847411999,1985
+Sheraton Seattle Hotel,steel,Seattle,113.08000183105,1982
+One Georgia Center,steel,Atlanta,113.08000183105,1968
+Bristol Tower,concrete,Miami,113.0,1993
+Western Union Building,steel,New York City,113.0,1930
+Archstone 101 West End,concrete,New York City,112.7799987793,2000
+11 West 42nd Street,steel,New York City,112.7799987793,1927
+222 Second Street,mixed/composite,San Francisco,112.7799987793,2015
+Franklin Towers,concrete,Honolulu,112.75,1982
+Canterbury Place,concrete,Honolulu,112.75,1978
+Terminus 200,concrete,Atlanta,112.65000152588001,2009
+Broderick Tower Lofts,steel,Detroit,112.59999847411999,1928
+Ohana Maile Sky Court,concrete,Honolulu,112.5,1984
+"Pacific Beach Hotel, Oceanarium Tower",concrete,Honolulu,112.5,1979
+NeoVertika,concrete,Miami,112.5,2006
+Normandie Court Apartments I,concrete,New York City,112.5,1987
+Normandie Court Apartments II-IV,concrete,New York City,112.5,1986
+Arkadia Tower,concrete,Chicago,112.41999816895,2015
+Sheraton Chicago Hotel & Towers,concrete,Chicago,112.33999633789,1992
+1720 South Michigan,concrete,Chicago,112.2200012207,2008
+Bay Parc Plaza,concrete,Miami,112.19999694824,2000
+Treasure Island Hotel & Casino,concrete,Las Vegas,112.19999694824,1993
+Chiquita Center,steel,Cincinnati,112.19999694824,1984
+Phoenix City Hall,concrete,Phoenix,112.19999694824,1994
+Grand Waikikian,concrete,Honolulu,112.16999816895,2008
+Chelsea Landmark,concrete,New York City,112.16999816895,2007
+The Admiral at the Lake,concrete,Chicago,112.16999816895,2012
+New United States Mission to the United Nations,concrete,New York City,112.16000366211,2009
+Trump International Hotel Waikiki Beach Walk,concrete,Honolulu,112.08999633789,2009
+Roybal Federal Building,steel,Los Angeles,112.0,1991
+Hawthorne House,concrete,Chicago,111.86000061035,1966
+1111 South Wabash,concrete,Chicago,111.86000061035,2004
+177 Huntington,concrete,Boston,111.86000061035,1973
+Standard Insurance Center,steel,Portland,111.86000061035,1970
+Buhl Building,steel,Detroit,111.59999847411999,1925
+One East Delaware,concrete,Chicago,111.55999755859,1989
+Hotel Inter-Continental Miami,mixed/composite,Miami,111.55999755859,1982
+K2 at K Station,concrete,Chicago,111.55999755859,2013
+Left Bank at K Station,concrete,Chicago,111.41000366211,2006
+Kinzie Park Tower,concrete,Chicago,111.30000305176,2001
+Ohio Bell Huron Building,steel,Cleveland,111.25,1927
+Avenue Southeast First Tower,concrete,Miami,111.19999694824,2007
+Steuart Tower,steel,San Francisco,111.0,1976
+Echelon at K Station,concrete,Chicago,110.69999694824,2008
+Manhattan Place,concrete,New York City,110.63999938965,1985
+InterContinental New York Times Square,concrete,New York City,110.63999938965,2010
+Pershing Square Building,steel,New York City,110.63999938965,1923
+1 Times Square,steel,New York City,110.63999938965,1996
+Rhodes Tower,steel,Cleveland,110.63999938965,1971
+Royal Capitol Plaza,concrete,Honolulu,110.40000152588001,1987
+240 Riverside Boulevard at Trump Place,concrete,New York City,110.37999725341999,2004
+Hawaiian Monarch Hotel,concrete,Honolulu,110.34999847411999,1979
+Royal Iolani Diamond Head Tower,concrete,Honolulu,110.33999633789,1978
+Royal Iolani Ewa Tower,concrete,Honolulu,110.33999633789,1978
+The Waverly at South Beach,concrete,Miami Beach,110.33999633789,2001
+The Chicagoan,concrete,Chicago,110.30000305176,1990
+One Illinois Center,concrete,Chicago,110.30000305176,1970
+Edgewater Plaza North,concrete,Chicago,110.0,1968
+Bay House Miami Residences,concrete,Miami,110.0,2015
+San Diego Marriott Marquis & Marina Tower 1,steel,San Diego,110.0,1984
+San Diego Marriott Marquis & Marina Tower 2,steel,San Diego,110.0,1987
+Edith Green-Wendell Wyatt Federal Building,steel,Portland,110.0,2013
+101 West Ohio,concrete,Indianapolis,109.76999664306999,1987
+Halcyon,concrete,New York City,109.73000335693001,2015
+520 Pike Tower,steel,Seattle,109.73000335693001,1983
+West 8th,steel,Seattle,109.73000335693001,2009
+The Allerton Hotel Chicago,steel,Chicago,109.73000335693001,1924
+250 West Pratt Street,steel,Baltimore,109.73000335693001,1986
+2 East Oak Street,concrete,Chicago,109.69999694824,1967
+Chestnut Tower,concrete,Chicago,109.69999694824,2000
+Sheraton Phoenix Downtown,mixed/composite,Phoenix,109.69999694824,2008
+Walton on the Park South Tower,concrete,Chicago,109.69999694824,2010
+Escala,concrete,Seattle,109.69999694824,2009
+Miami-Dade County Courthouse,concrete,Miami,109.69999694824,1928
+Bank of America Tower,mixed/composite,Phoenix,109.69999694824,2000
+River Gate Apartments,concrete,New York City,109.12000274658001,1985
+Figueroa Tower,steel,Los Angeles,109.0,1989
+Regents Park South,concrete,Chicago,108.90000152588001,1972
+1600 Museum Park,concrete,Chicago,108.90000152588001,2009
+New World Tower,steel,Miami,108.80000305176,1965
+Sofitel New York Hotel,concrete,New York City,108.62999725341999,2000
+Eaton Center,concrete,Cleveland,108.51000213623001,1983
+2116 Chestnut,concrete,Philadelphia,108.5,2013
+3300 North Central Avenue,steel,Phoenix,108.5,1980
+Fifth Street Towers I,mixed/composite,Minneapolis,108.36000061035,1987
+Westinghouse Tower,steel,Pittsburgh,108.20999908446998,1970
+The Columbia,concrete,New York City,108.19999694824,1983
+Esquire Plaza,steel,Sacramento,108.19999694824,1999
+Hunter's Point South Tower 2,concrete,New York City,108.0,2015
+Grand Tower,concrete,Los Angeles,108.0,1989
+101 Second Street,steel,San Francisco,108.0,1999
+160 Riverside Boulevard at Trump Place,concrete,New York City,107.90000152588001,2001
+Azure,concrete,New York City,107.30000305176,2010
+Post Toscana Apartments,concrete,New York City,107.30000305176,2003
+Yacht Harbor Tower II,concrete,Honolulu,107.0,1973
+Crowne Plaza Hotel Downtown Seattle,mixed/composite,Seattle,107.0,1980
+Trump International Beach Resort,concrete,Sunny Isles Beach,107.0,2004
+Atrium Two,concrete,Cincinnati,107.0,1984
+KPMG Center,steel,Los Angeles,107.0,1991
+Capitol Square,concrete,Sacramento,106.98000335693001,1992
+Regency Tower,concrete,Honolulu,106.69999694824,1974
+Malibu Condominiums,concrete,Chicago,106.69999694824,1969
+The Aqua Waikiki Marina Towers,concrete,Honolulu,106.69999694824,1984
+Yacht Harbor Tower I,concrete,Honolulu,106.69999694824,1972
+The Infinity I,concrete,San Francisco,106.69999694824,2008
+4 Midtown,concrete,Miami,106.69999694824,2008
+45-40 Center Boulevard,concrete,New York City,106.69999694824,2013
+Luxor Pyramid,steel,Las Vegas,106.69999694824,1993
+The Metropolitan,concrete,New York City,106.69999694824,2004
+Capitol Square,steel,Columbus,106.69999694824,1984
+Executive Complex,steel,San Diego,106.69999694824,1963
+Trump Park Avenue,steel,New York City,106.68000030518,1929
+10 West End,concrete,New York City,106.68000030518,2007
+Chamber of Commerce Building,steel,New York City,106.68000030518,1926
+Charles Towers North Apartments,concrete,Baltimore,106.68000030518,1967
+Legg Mason Tower,concrete,Baltimore,106.68000030518,2009
+One Utah Center,steel,Salt Lake City,106.68000030518,1991
+Octavius Tower,steel,Las Vegas,106.68000030518,2012
+Trinity Building,steel,New York City,106.68000030518,1905
+Robert T. Matsui Federal Courthouse,steel,Sacramento,106.68000030518,1992
+Continental Place,concrete,Seattle,106.40000152588001,1981
+First Hill Plaza,concrete,Seattle,106.40000152588001,1982
+Westin Book-Cadillac Detroit,steel,Detroit,106.40000152588001,1924
+Bunker Hill Towers,steel,Los Angeles,106.37999725341999,1968
+601 California Street,steel,San Francisco,106.37999725341999,1960
+Mercedes House,concrete,New York City,106.09999847411999,2012
+Greektown Casino Hotel,concrete,Detroit,106.09999847411999,2009
+The Century,steel,New York City,106.06999969482,1931
+The Moderne,concrete,Milwaukee,106.06999969482,2013
+Bank of America Building,steel,New York City,106.06999969482,1983
+City National Bank Building,steel,Los Angeles,106.06999969482,1968
+Park Alexandria,concrete,Chicago,105.83999633789,2003
+Hawaii Prince I,concrete,Honolulu,105.80000305176,1990
+Hawaii Prince II,concrete,Honolulu,105.80000305176,1990
+One Renaissance Square,concrete,Phoenix,105.80000305176,1986
+Henry W. Oliver Building,steel,Pittsburgh,105.80000305176,1910
+2555 Grand Avenue,steel,Kansas City,105.80000305176,2003
+Sofitel Chicago Water Tower,concrete,Chicago,105.79000091553002,2002
+Edgewater Plaza South,concrete,Chicago,105.5,1971
+Southampton Apartments,concrete,Jersey City,105.5,2000
+777 Avenue of the Americas,concrete,New York City,105.5,2001
+Plaza Towers Apartments,concrete,New York City,105.45999908446998,1964
+The Majestic,steel,New York City,105.45999908446998,1931
+29 Park Madison,concrete,New York City,105.19999694824,2008
+New Yorker East Apartments,concrete,New York City,105.19999694824,1975
+Eight O Five,concrete,Chicago,105.19999694824,2015
+One Riverside Park,concrete,New York City,105.19999694824,2015
+Westlake Center,steel,Seattle,105.19999694824,1988
+Federal Building & J.W. McCormack Post,steel,Boston,105.19999694824,1931
+La Gorce Palace,concrete,Miami Beach,105.09999847411999,1996
+Nine O Nine Kapiolani,concrete,Honolulu,105.0,2007
+Sessanta,concrete,New York City,105.0,2009
+Three PNC Plaza,mixed/composite,Pittsburgh,105.0,2010
+Three Gateway Center,steel,Pittsburgh,104.90000152588001,1952
+The Avery,concrete,New York City,104.84999847411999,2008
+The Wilshire,concrete,Los Angeles,104.84999847411999,1990
+Land Title Building Annex,steel,Philadelphia,104.84999847411999,1902
+The Atlantic,concrete,Jersey City,104.80000305176,1998
+Hyatt Regency McCormick Place,concrete,Chicago,104.80000305176,1998
+414 Water Street,concrete,Baltimore,104.75,2008
+5 Penn Plaza,steel,New York City,104.55000305176,1916
+HarborView Condominium,concrete,Baltimore,104.40000152588001,1993
+Four Points by Sheraton - Midtown Times Square,concrete,New York City,104.25,2009
+301 East 50th Street,concrete,New York City,104.25,2015
+Ellison Building,mixed/composite,Boston,104.19999694824,1992
+Regents Park North,concrete,Chicago,104.18000030518,1974
+Freeport-McMoRan Center,mixed/composite,Phoenix,104.13999938965,2009
+Tower East Apartments,concrete,New York City,104.0,1962
+Hilton Hotel at 54th,concrete,New York City,103.94000244140999,2013
+Grovenor House,concrete,Miami,103.90000152588001,2006
+The Yacht Club at Portofino,concrete,Miami Beach,103.90000152588001,1999
+Distrikt Hotel,concrete,New York City,103.90000152588001,2009
+First National Building,steel,Detroit,103.90000152588001,1930
+Phoenix Corporate Center,concrete,Phoenix,103.90000152588001,1965
+Wall Street Exchange Building,steel,New York City,103.90000152588001,1903
+100 Washington Square,concrete,Minneapolis,103.83999633789,1981
+Ariel West,concrete,New York City,103.62999725341999,2008
+Chicago Hilton & Towers,steel,Chicago,103.62999725341999,1927
+Merchandise Mart,steel,Chicago,103.62999725341999,1930
+Two Rector Street,steel,New York City,103.59999847411999,1907
+3150 North Lake Shore Drive,concrete,Chicago,103.33000183105,1963
+Windsor on the Lake,concrete,Austin,103.33000183105,2008
+Verizon Building,steel,Pittsburgh,103.30000305176,1931
+1550 North Lake Shore Drive Apartments,concrete,Chicago,103.0,1960
+Flamingo Resort Residences III,concrete,Miami Beach,103.0,2001
+255 East 74th Street,concrete,New York City,103.0,2009
+University Hall,concrete,Chicago,103.0,1965
+Bank of Tokyo Building,steel,New York City,103.0,1896
+1001 Woodward,steel,Detroit,103.0,1965
+The Bryant Park Hotel,steel,New York City,103.0,1924
+McKnight Tower Apartments,concrete,Minneapolis,102.83000183105,1973
+Circus Circus West Tower,concrete,Las Vegas,102.69999694824,1996
+The Concerto,concrete,New York City,102.69999694824,1991
+The Floridian,concrete,Miami Beach,102.69999694824,1997
+200 East Delaware,concrete,Chicago,102.41000366211,1972
+Century Tower,concrete,Chicago,102.41000366211,1930
+Loop Transportation Center,concrete,Chicago,102.41000366211,1985
+Twelve Atlantic Station,concrete,Atlanta,102.41000366211,2005
+Courts Brickell Key,concrete,Miami,102.40000152588001,2002
+875 Avenue of the Americas,steel,New York City,102.40000152588001,1927
+Elm Street Plaza,concrete,Chicago,102.11000061035,1974
+The Oliver Cromwell,concrete,New York City,102.11000061035,1927
+99 Wall Street,steel,New York City,102.11000061035,1931
+The Veneto,concrete,New York City,102.09999847411999,2007
+Cielo,mixed/composite,Seattle,102.09999847411999,2015
+410 Building,mixed/composite,Denver,102.09999847411999,1978
+The Grandview,concrete,Atlanta,102.0,1990
+990 North Lake Shore Drive,concrete,Chicago,102.0,1973
+3 Columbus Circle,steel,New York City,102.0,2011
+35XV Residences,mixed/composite,New York City,102.0,2015
+Beneficial Financial Group Tower,steel,Salt Lake City,102.0,1998
+Staybridge Suites Times Square - New York City,concrete,New York City,101.80000305176,2009
+The Impala,concrete,New York City,101.80000305176,2001
+Transunion Building,concrete,Chicago,101.80000305176,1961
+Newport Lofts,steel,Las Vegas,101.80000305176,2007
+1212 North Lake Shore Drive,concrete,Chicago,101.5,1969
+2500 North Lakeview,concrete,Chicago,101.5,1974
+CNA Plaza North,steel,Chicago,101.5,1962
+U.S. Federal Courthouse,steel,San Diego,101.5,2012
+Bridgeview,concrete,San Francisco,101.41999816895,2002
+Inland Steel Building,steel,Chicago,101.30000305176,1958
+Plaza Venetia Hotel,concrete,Miami,101.19999694824,1979
+Miami Marriott Biscayne Bay,concrete,Miami,101.19999694824,1979
+220 West 41st Street,concrete,New York City,101.19999694824,2015
+Concerto Tower 1,concrete,Los Angeles,101.19999694824,2009
+Concord City Centre,steel,Chicago,101.19999694824,1927
+Mayfair Towers,steel,New York City,101.19000244140999,1964
+270 Broadway,steel,New York City,101.19000244140999,1930
+Banyan Tree Plaza,concrete,Honolulu,101.0,1974
+The Octavia,concrete,New York City,101.0,1985
+W Downtown Atlanta Hotel & Residences,concrete,Atlanta,100.90000152588001,2009
+Gold Coast Galleria,concrete,Chicago,100.88999938965,1991
+180 Montague Street,concrete,New York City,100.87999725341999,2000
+Park East Tower,concrete,St. Louis,100.66000366211,2007
+Post Oak,concrete,Houston,100.59999847411999,2014
+2 Wall Street,steel,New York City,100.59999847411999,1933
+Frick Building,steel,Pittsburgh,100.59999847411999,1902
+Suffolk County Courthouse,steel,Boston,100.59999847411999,1939
+Cosmopolitan,concrete,Seattle,100.58999633789,2007
+525 West Monroe Street,concrete,Chicago,100.58999633789,1983
+Charles Center South,steel,Baltimore,100.58999633789,1975
+ADA Building,mixed/composite,Chicago,100.58999633789,1965
+Montebello,concrete,Houston,100.58000183105,2004
+55 Second Street,steel,San Francisco,100.58000183105,2002
+150 California Street,steel,San Francisco,100.58000183105,1999
+Museum Park Place 2,concrete,Chicago,100.40000152588001,2009
+South Shore Beach Apartments,concrete,Chicago,100.30000305176,1965
+292 Madison Avenue,steel,New York City,100.30000305176,1923
+Two Northside Piers,concrete,New York City,100.2799987793,2009
+44 Wall Street,steel,New York City,100.25,1926
+840 North Lake Shore Drive,concrete,Chicago,100.18000030518,2004
+Michigan Terrace Condominiums,concrete,Chicago,100.0,1963
+29-07 Queens Plaza North,concrete,New York City,100.0,2015
+The Laurel,concrete,New York City,100.0,2009
+Forte Condominiums,concrete,New York City,100.0,2007
+LVMH Tower,steel,New York City,100.0,1999
+225 Bush Street,steel,San Francisco,100.0,1922
+Eighteen Eighty Eight Building,steel,Los Angeles,100.0,1971
+1240 North Lake Shore Drive,concrete,Chicago,99.98000335693399,1971
+300 West 6th Street,concrete,Austin,99.970001220703,2002
+Brickell City Tower,concrete,Miami,99.900001525879,1986
+530 North Lake Shore Drive,concrete,Chicago,99.87000274658199,2003
+Marquette Place,concrete,Minneapolis,99.800003051758,1985
+Audubon Tower,concrete,New York City,99.699996948242,1964
+Park Tower,concrete,New York City,99.699996948242,1964
+St. Nicholas Tower,concrete,New York City,99.699996948242,1964
+Wadsworth Tower,concrete,New York City,99.699996948242,1964
+545 8th Avenue,steel,New York City,99.699996948242,1927
+The Tower,mixed/composite,Los Angeles,99.699996948242,1988
+43 Exchange Place,steel,New York City,99.66999816894501,1903
+The Seville,concrete,New York City,99.400001525879,2002
+MyBrickell,concrete,Miami,99.400001525879,2014
+Daniels & Fisher Tower,steel,Denver,99.099998474121,1910
+The Breakers at Edgewater Beach,concrete,Chicago,99.05999755859399,1987
+The John Ross Tower,concrete,Portland,99.05999755859399,2007
+Mirabella,concrete,Portland,99.05999755859399,2010
+The Ardea,concrete,Portland,99.05999755859399,2008
+TradeMark,concrete,Charlotte,99.05999755859399,2007
+Abington House on the Highline,concrete,New York City,99.0,2014
+Fairfield Inn New York/Manhattan Financial District,concrete,New York City,99.0,2015
+The Lancaster,concrete,Chicago,98.80999755859399,2005
+American Towers Condominiums North Tower,concrete,Salt Lake City,98.76000213623001,1982
+American Towers Condominiums South Tower,concrete,Salt Lake City,98.76000213623001,1982
+Chrysler House,steel,Detroit,98.599998474121,1913
+The Lara,concrete,New York City,98.449996948242,2014
+Hunter-Dulin Building,steel,San Francisco,98.25,1926
+Harris Bank Addition I,steel,Chicago,98.199996948242,1960
+Macy's Addition,steel,New York City,98.150001525879,1924
+Americana Towers,concrete,Chicago,98.0,1970
+1212 South Michigan,concrete,Chicago,98.0,1982
+36 East Seventh Street,concrete,Cincinnati,98.0,1989
+McCormack Building,steel,Boston,98.0,1975
+River View I,concrete,Chicago,97.98999786376999,2000
+1133 North Dearborn,concrete,Chicago,97.889999389648,1988
+US Bank Plaza II,concrete,Minneapolis,97.87000274658199,1981
+Flagler on the River,concrete,Miami,97.83999633789101,2014
+The Avalon Riverview,concrete,New York City,97.83999633789101,2002
+Gotham West,concrete,New York City,97.83999633789101,2013
+AT&T Building,steel,Indianapolis,97.83999633789101,1932
+Liberty Luxe,concrete,New York City,97.540000915527,2011
+Westin Michigan Avenue,concrete,Chicago,97.540000915527,1972
+Kroger Building,concrete,Cincinnati,97.540000915527,1954
+World Trade Center at City Creek,steel,Salt Lake City,97.540000915527,1986
+East Hampton,concrete,Jersey City,97.5,1999
+Avalon Exeter,steel,Boston,97.5,2014
+519 8th Avenue,steel,New York City,97.5,1927
+Sayan Condominium,concrete,Sunny Isles Beach,97.25,2006
+The Vermont West Tower,concrete,Los Angeles,97.099998474121,2014
+London Guarantee Building,steel,Chicago,97.01999664306601,1923
+The Riverside,concrete,Jersey City,97.0,1998
+United States Realty Building,steel,New York City,97.0,1907
+Seattle Tower,steel,Seattle,96.900001525879,1929
+Bryant Building,steel,Kansas City,96.900001525879,1931
+East Coast Tower II,concrete,New York City,96.319999694824,2008
+Prentice Women's Hospital,mixed/composite,Chicago,96.319999694824,2007
+One Tequesta Point,concrete,Miami,96.0,1995
+Michigan Avenue Tower I,concrete,Chicago,95.76000213623001,2005
+505 LaGuardia Place,concrete,New York City,95.699996948242,1966
+McCormick Building,steel,Chicago,95.699996948242,1912
+Park Plaza Apartments,steel,St. Louis,95.5,1931
+AT&T Center,steel,Milwaukee,95.400001525879,1924
+777 South State,concrete,Chicago,95.099998474121,1984
+550 St. Clair,concrete,Chicago,95.099998474121,2008
+Roberts Tower at Mayfair Plaza,concrete,St. Louis,95.099998474121,2010
+Hilton Suites Chicago,concrete,Chicago,95.0,1990
+4Marq,concrete,Minneapolis,94.790000915527,2015
+theWit Hotel,concrete,Chicago,94.790000915527,2009
+Capital Center South Tower,concrete,Indianapolis,94.790000915527,1987
+Rand Tower,steel,Minneapolis,94.680000305176,1929
+Michigan Avenue Tower II,concrete,Chicago,94.66999816894501,2009
+West 57th Street by Hilton Club,concrete,New York City,94.5,2009
+Kalia Tower,steel,Honolulu,94.5,2001
+Skye Building,steel,Charlotte,94.5,2013
+3601 Market Street,concrete,Philadelphia,94.300003051758,2015
+Omni Hotel CNN Center Expansion,concrete,Atlanta,94.279998779297,2003
+Society Hill Towers I,concrete,Philadelphia,94.180000305176,1964
+Society Hill Towers II,concrete,Philadelphia,94.180000305176,1964
+Society Hill Towers III,concrete,Philadelphia,94.180000305176,1964
+1440 Broadway,steel,New York City,94.180000305176,1925
+ICON,steel,Philadelphia,94.180000305176,1929
+Plymouth Towers Apartments,concrete,New York City,94.0,1977
+201 Pearl Street,concrete,New York City,94.0,2009
+EnV,concrete,Chicago,94.0,2010
+Purves I,concrete,New York City,93.900001525879,2015
+James R. Thompson Center,steel,Chicago,93.900001525879,1985
+McDonald Investment Center,steel,Cleveland,93.87999725341801,1968
+New York Cotton Exchange Building,steel,New York City,93.87999725341801,1924
+University of Texas Tower,steel,Austin,93.599998474121,1937
+Lever House,steel,New York City,93.569999694824,1952
+Atlantic Terminal Houses 1,concrete,New York City,93.26999664306601,1976
+SoNo West Tower,concrete,Chicago,93.199996948242,2009
+Metropolitan Tower,steel,Seattle,93.0,2001
+Towers of Bay Ridge West,concrete,New York City,93.0,1972
+Circus Circus Skyrise Tower,concrete,Las Vegas,93.0,1986
+Four Gateway Center,steel,Pittsburgh,93.0,1960
+Midtown Towers,steel,Pittsburgh,93.0,1907
+Statue of Liberty,steel,New York City,93.0,1886
+Omni William Penn Hotel,steel,Pittsburgh,92.949996948242,1916
+The National,steel,Chicago,92.349998474121,1907
+The Riverhouse,concrete,New York City,92.050003051758,2008
+Riverside Plaza,steel,Chicago,92.050003051758,1929
+Hilton Indianapolis,concrete,Indianapolis,92.050003051758,1971
+Kukui Plaza Diamond Ewa Tower,concrete,Honolulu,92.0,1976
+Kukui Plaza Diamond Head Tower,concrete,Honolulu,92.0,1976
+International Tower,steel,Los Angeles,92.0,1985
+Michigan Avenue Lofts,steel,Chicago,92.0,1911
+Hotel Ivy + Residences,concrete,Minneapolis,91.91999816894501,2008
+1111 North Dearborn,concrete,Chicago,91.75,1981
+Clark Building,steel,Pittsburgh,91.75,1928
+Oliver Street Tower,steel,Boston,91.75,1991
+55 Public Square,mixed/composite,Cleveland,91.44000244140601,1958
+One Light,concrete,Kansas City,91.400001525879,2015
+The Carlyle,steel,Pittsburgh,91.400001525879,1906
+Commonwealth Building,steel,Pittsburgh,91.400001525879,1906
+Pacific Building,steel,Seattle,91.199996948242,1971
+East Coast Tower I,concrete,New York City,91.139999389648,2006
+Silver Tower I,concrete,New York City,91.099998474121,1966
+Silver Tower II,concrete,New York City,91.099998474121,1966
+200 Chambers Street,concrete,New York City,91.099998474121,2007
+Viceroy New York,concrete,New York City,91.099998474121,2013
+Astor Tower,concrete,Chicago,91.099998474121,1962
+Georgia Power Company Headquarters,steel,Atlanta,91.0,1981
+W Hotel Chicago Lakeshore,concrete,Chicago,90.83000183105499,1964
+The Edge South Tower,concrete,New York City,90.83000183105499,2009
+Central Tower,steel,San Francisco,90.83000183105499,1938
+5444 Westheimer Road,steel,Houston,90.83000183105499,1979
+River North Marriott Suites,concrete,Chicago,90.680000305176,2008
+One Northside Piers,concrete,New York City,90.529998779297,2008
+Feinberg Pavillion,mixed/composite,Chicago,90.529998779297,1997
+Beacon Tower,mixed/composite,New York City,90.51999664306601,2007
+The Olivian,concrete,Seattle,90.5,2009
+575 8th Avenue,steel,New York City,90.5,1926
+Sunset Vine Tower,mixed/composite,Los Angeles,90.5,2007
+717 Olympic,concrete,Los Angeles,90.25,2008
+Starrett-Lehigh Building,steel,New York City,90.220001220703,1931
+Rego Park Center Tower,concrete,New York City,89.91999816894501,2015
+Riley Towers I,concrete,Indianapolis,89.91999816894501,1963
+Riley Towers II,concrete,Indianapolis,89.91999816894501,1963
+Noble Square Co-op,concrete,Chicago,89.91999816894501,1969
+Hess Building,steel,New York City,89.91999816894501,1913
+Grant Park Tower,concrete,Minneapolis,89.610000610352,2004
+Hyatt Centric,steel,Chicago,89.610000610352,1927
+Wrigley Building North Addition,steel,Chicago,89.599998474121,1925
+Gateway Towers The Condominium,concrete,Pittsburgh,89.300003051758,1964
+Hilton Seattle,steel,Seattle,89.300003051758,1970
+Marquee Michigan Avenue,concrete,Chicago,89.099998474121,2008
+Erie on the Park,steel,Chicago,89.099998474121,2002
+1418 North Lake Shore Drive,concrete,Chicago,89.0,1983
+Towers of Bay Ridge East,concrete,New York City,89.0,1972
+Randolph-Wells Building,steel,Chicago,89.0,1928
+Chelsea Arts Tower,concrete,New York City,89.0,2007
+Legacy at Memorial,concrete,Houston,88.699996948242,2009
+Park Place Tower,steel,New York City,88.699996948242,1895
+Consumers Building,steel,Chicago,88.699996948242,1913
+Renaissance Blackstone,steel,Chicago,88.400001525879,1910
+551 West 21st Street,concrete,New York City,88.389999389648,2015
+Astor House,concrete,Chicago,88.23000335693399,1969
+MDA City Apartments,steel,Chicago,88.199996948242,1927
+Museum Pointe,concrete,Chicago,88.099998474121,2005
+Emerson Tower,steel,Baltimore,88.099998474121,1911
+Metropolitan Correctional Center,concrete,Chicago,88.08999633789101,1975
+Nic on Fifth,concrete,Minneapolis,88.08999633789101,2014
+Huntington Bank Building,steel,Cleveland,88.08999633789101,1924
+Four Seasons Hotel St. Louis,concrete,St. Louis,88.0,2007
+Sunset Media Tower,steel,Los Angeles,87.779998779297,1971
+Presbyterian Hospital,steel,New York City,87.75,1928
+Conrad Indianapolis & Residences,concrete,Indianapolis,87.48000335693399,2006
+22 Skyview,concrete,Miami,87.199996948242,2013
+505 8th Avenue,steel,New York City,87.199996948242,1926
+Hippodrome Building,steel,New York City,87.16999816894501,1952
+Continental Life Building,steel,St. Louis,87.099998474121,1930
+Elliott Grand Hyatt Seattle,concrete,Seattle,87.0,2001
+525 Hawthorne,concrete,Chicago,86.87000274658199,1970
+1001 McKinney Bldg.,steel,Houston,86.87000274658199,1949
+Flatiron Building,steel,New York City,86.87000274658199,1902
+Hobart Building,steel,San Francisco,86.87000274658199,1914
+Horizon House,concrete,Chicago,86.699996948242,1965
+SkyHouse River Oaks,concrete,Houston,86.599998474121,2015
+Edgecliff Point Condos,concrete,Cincinnati,86.5,1990
+Market Square Center,steel,Indianapolis,86.26000213623001,1975
+Omni Dallas Hotel,concrete,Dallas,86.0,2011
+6 North Michigan,steel,Chicago,85.949996948242,1899
+80 8th Avenue,steel,New York City,85.949996948242,1930
+500 Broadway Building,concrete,St. Louis,85.830001831055,1970
+Lawyers Building,steel,Pittsburgh,85.650001525879,1928
+The Sovereign,mixed/composite,Houston,85.349998474121,2014
+The Tree House Residence Hall at Massachusetts College of Art and Design,steel,Boston,85.339996337891,2012
+Museum Park Tower I,concrete,Chicago,85.339996337891,2002
+Four Penn Center,steel,Philadelphia,85.040000915527,1964
+Frost Tower,concrete,Dallas,85.040000915527,2015
+The Summit at University City,concrete,Philadelphia,85.0,2015
+Ward Memorial Building,steel,Chicago,85.0,1926
+Barbizon/63,steel,New York City,84.76000213623,1927
+Lake Park Plaza,concrete,Chicago,84.75,1969
+Master Printers Building,concrete,New York City,84.75,1927
+Railway Exchange Building,steel,St. Louis,84.430000305176,1914
+River Place on the Park,concrete,Chicago,84.099998474121,2006
+Mercy Medical Center Inpatient Tower,steel,Baltimore,84.0,1963
+One Gateway Center,steel,Pittsburgh,84.0,1952
+Two Gateway Center,steel,Pittsburgh,84.0,1952
+SkyHouse Houston,concrete,Houston,83.819999694824,2015
+Fisher Building,steel,Chicago,83.819999694824,1906
+136 E South Temple,concrete,Salt Lake City,83.519996643066,1966
+Hilton Milwaukee City Center,steel,Milwaukee,83.519996643066,1927
+Doubletree Guest Suites,concrete,Houston,83.199996948242,1982
+Park Place,steel,Seattle,83.0,1972
+Macy's at State Street,steel,Chicago,83.0,1914
+102 5th Avenue,steel,New York City,82.910003662109,1912
+Crown Plaza Cincinnati,steel,Cincinnati,82.910003662109,1949
+Franklin / Illinois Apartments,concrete,Chicago,82.900001525879,2014
+David Whitney Building,steel,Detroit,82.900001525879,1916
+Loews Minneapolis Hotel,mixed/composite,Minneapolis,82.449996948242,2003
+Hollywood Towers North,concrete,Chicago,82.300003051758,1962
+Hollywood Towers South,concrete,Chicago,82.300003051758,1962
+860 North Lake Shore Drive,steel,Chicago,82.300003051758,1951
+880 North Lake Shore Drive,steel,Chicago,82.300003051758,1951
+Michigan Boulevard Building,steel,Chicago,82.300003051758,1914
+The Powhatan,concrete,Chicago,82.220001220703,1929
+River Towers B,concrete,Minneapolis,82.099998474121,1966
+Henry Hudson Hotel,steel,New York City,82.0,1929
+Lexington House,concrete,New York City,82.0,2010
+Lefcourt Empire Building,steel,New York City,82.0,1930
+Plaza 600,steel,Seattle,82.0,1969
+The Plaza Residences,steel,New York City,82.0,1909
+Texas Children's Hospital Pavilion for Women,concrete,Houston,81.98999786377,2012
+The St. James,concrete,Houston,81.699996948242,1975
+Avalon West Chelsea,concrete,New York City,81.69000244140601,2014
+Via6 North Tower,concrete,Seattle,81.400001525879,2013
+Via6 South Tower,concrete,Seattle,81.400001525879,2013
+Hyatt Regency Miami,concrete,Miami,81.379997253418,1982
+Kheel Tower,steel,New York City,81.379997253418,1926
+New York Times Building,steel,New York City,81.379997253418,1931
+480 Main Street,concrete,New York City,81.0,2015
+Midtown Plaza,steel,Charlotte,81.0,1924
+Emerald Green,concrete,New York City,80.769996643066,2009
+The Regent,concrete,Salt Lake City,80.769996643066,2011
+1325 J Street,concrete,Sacramento,80.769996643066,1999
+300 Capitol Mall,steel,Sacramento,80.769996643066,1984
+100 11th Avenue,concrete,New York City,80.669998168945,2010
+Thrivent Financial Building,steel,Minneapolis,80.519996643066,1981
+701 Building,concrete,Minneapolis,80.51000213623,1984
+Lawrence Hall,steel,Pittsburgh,80.5,1929
+Rehabilitation Institute of Chicago,steel,Chicago,80.5,1973
+111 Eighth Avenue,steel,New York City,80.5,1932
+SkyHouse Austin,concrete,Austin,80.470001220703,2014
+Victoria Building,steel,New York City,80.459999084473,1912
+Grand East,concrete,New York City,80.160003662109,2014
+Seven,concrete,Austin,80.160003662109,2015
+Pearson on the Park,concrete,Chicago,80.0,1965
+SkyHouse South,concrete,Atlanta,80.0,2014
+Century Building,steel,Chicago,80.0,1915
+Postum Building,steel,New York City,79.860000610352,1924
+386 Park Avenue South,steel,New York City,79.860000610352,1927
+Hotel Indigo on Orchard Street,steel,New York City,79.849998474121,2015
+Soo Line Building,steel,Minneapolis,79.580001831055,1915
+Hermitage on Huron,concrete,Chicago,79.550003051758,1985
+625 Stanwix Tower,concrete,Pittsburgh,79.550003051758,1967
+KMOV Gateway Tower,concrete,St. Louis,79.550003051758,1967
+315 West 36th Street,steel,New York City,79.550003051758,1927
+The Standard,mixed/composite,New York City,79.5,2009
+Lincoln Tower,concrete,Columbus,79.25,1967
+Morrill Tower,concrete,Columbus,79.25,1967
+The BreakWater,concrete,Milwaukee,79.25,2009
+Allegheny Building,steel,Pittsburgh,79.25,1906
+Sunset and Gordon,concrete,Los Angeles,79.199996948242,2015
+MEi Miami Beach Ocean Front,concrete,Miami Beach,79.0,2008
+Santa Fe Building,steel,Chicago,78.94000244140601,1904
+Museum Park Place 1,concrete,Chicago,78.900001525879,2007
+899 South Plymouth Court,concrete,Chicago,78.870002746582,1980
+55 West Wacker,concrete,Chicago,78.029998779297,1968
+1410 North State Parkway,concrete,Chicago,78.0,1981
+The Carillon Hotel & Spa South Tower,concrete,Miami Beach,78.0,2008
+Arrott Building,steel,Pittsburgh,78.0,1902
+Freedom Tower,steel,Miami,78.0,1925
+The Martin,mixed/composite,Seattle,77.720001220703,2013
+Federal Office Building,steel,New York City,77.720001220703,1935
+The James New York,concrete,New York City,77.720001220703,2010
+Hilton Garden Inn,concrete,Chicago,77.419998168945,2015
+Commonwealth Promenade I,mixed/composite,Chicago,77.120002746582,1956
+Commonwealth Promenade II,mixed/composite,Chicago,77.120002746582,1956
+6565 MD Anderson Boulevard,concrete,Houston,77.110000610352,2014
+Key Bank Building,concrete,Columbus,77.0,1963
+Rush University Medical Center Hospital Tower,mixed/composite,Chicago,76.959999084473,2012
+Benedum-Trees Building,steel,Pittsburgh,76.800003051758,1906
+Narragansett Apartments,concrete,Chicago,76.629997253418,1929
+The Caledonia,concrete,New York City,76.199996948242,2008
+Law and Finance Building,steel,Pittsburgh,76.199996948242,1928
+Wisconsin Gas Building,steel,Milwaukee,76.199996948242,1930
+5 Greenspoint Place,steel,Houston,76.0,1983
+Sheraton Columbus Hotel at Capitol Square,concrete,Columbus,75.800003051758,1984
+Washington Athletic Club,steel,Seattle,75.599998474121,1930
+Landmark on the Lake,concrete,Milwaukee,75.589996337891,1991
+The Vermont East Tower,concrete,Los Angeles,75.300003051758,2014
+5000 Montrose Boulevard,concrete,Houston,75.0,1981
+Ferry Building,steel,San Francisco,74.680000305176,1898
+Simon & Schuster Building,steel,New York City,74.669998168945,1939
+100 Pier 4,steel,Boston,74.400001525879,2014
+80 Central Park West,steel,New York City,74.370002746582,1967
+Hartford Plaza North,concrete,Chicago,74.370002746582,1961
+The Lofts at 1835 Arch Street,concrete,Philadelphia,74.300003051758,1925
+SoNo East Tower,concrete,Chicago,74.0,2012
+Rio Ipanema Tower,concrete,Las Vegas,73.879997253418,1990
+100 5th Avenue,steel,New York City,73.76000213623,1907
+Gramercy Green,concrete,New York City,73.150001525879,2007
+Hilton Garden Inn New York/Chelsea,concrete,New York City,72.849998474121,2008
+The Bank Center,steel,Pittsburgh,72.5,1903
+Union Trust Building,steel,Pittsburgh,72.23999786377,1916
+Wacker Tower,steel,Chicago,72.089996337891,1928
+Museum Park Tower II,concrete,Chicago,72.029998779297,2009
+Residences at New City,concrete,Chicago,71.599998474121,2015
+270 West 39th Street,steel,New York City,71.319999694824,1926
+San Francisco Federal Building,concrete,San Francisco,71.319999694824,2007
+The Anthem,concrete,New York City,70.709999084473,2003
+1312-1314 Chestnut Street,steel,Philadelphia,70.709999084473,1924
+The John and Frances Angelos Law Center,concrete,Baltimore,70.5,2013
+160 East 22nd Street,concrete,New York City,70.400001525879,2014
+Tribeca Green,concrete,New York City,70.099998474121,2005
+120 Riverside Boulevard at Trump Place,concrete,New York City,70.099998474121,2004
+Michigan Central Station,steel,Detroit,70.099998474121,1913
+Cambria Suites Hotel,concrete,New York City,69.5,2009
+QLIC,concrete,New York City,69.5,2015
+Underwood Building,steel,New York City,69.5,1912
+10 Rockefeller Plaza,steel,New York City,69.5,1940
+Bank of America Building,steel,New York City,69.48999786377,1938
+Monroe Building,steel,Chicago,69.0,1912
+315 on A,concrete,Boston,68.580001831055,2014
+Cudahy Tower,steel,Milwaukee,68.400001525879,1928
+University Club,steel,Chicago,67.650001525879,1909
+Capitol Records Building,steel,Los Angeles,67.0,1956
+Dwight Building,concrete,Chicago,66.800003051758,2008
+Two River Place,concrete,Chicago,66.5,2004
+Sheraton Denver Downtown Hotel,concrete,Denver,66.449996948242,1960
+170 Amsterdam Avenue,concrete,New York City,66.169998168945,2014
+Park Lafayette North Tower,concrete,Milwaukee,65.839996337891,2009
+Park Lafayette South Tower,concrete,Milwaukee,65.839996337891,2009
+Pointe 400,concrete,St. Louis,65.839996337891,1967
+Three Eldridge Place,concrete,Houston,64.919998168945,2009
+Hyatt Place,concrete,Chicago,64.400001525879,2015
+375 Hudson Street,steel,New York City,64.0,1989
+52 East 4th Street,concrete,New York City,64.0,2009
+Coit Tower,concrete,San Francisco,64.0,1933
+185 Castleton Park Tower,concrete,New York City,63.299999237061,1976
+Sullivan Center,steel,Chicago,63.11999893188501,1903
+Hyatt Regency St. Louis Riverfront,steel,St. Louis,62.180000305176,1907
+The Crimson,concrete,Miami,61.599998474121,2015
+Reliance Building,steel,Chicago,61.470001220703004,1895
+Two Eldridge Place,concrete,Houston,61.259998321533004,1986
+Hilliard Homes 1,concrete,Chicago,61.0,1966
+Hilliard Homes 2,concrete,Chicago,61.0,1966
+Macy's Store,steel,New York City,60.959999084473,1902
+Vue20 Condominium,concrete,Chicago,60.900001525879,2003
+Hooters Hotel Casino,concrete,Las Vegas,60.400001525879,1973
+Ronald McDonald House,concrete,Chicago,60.36999893188501,2012
+BB&T Building,steel,Miami,60.0,1985
+R+D 659,concrete,Chicago,58.349998474121,2009
+The Ken Garff Building,steel,Salt Lake City,58.220001220703004,1967
+Clark and Grand Hotels,concrete,Chicago,57.759998321533004,2013
+The Coyote,steel,Chicago,56.689998626709006,1928
+165 Castleton Park Tower,concrete,New York City,56.400001525879,1976
+Luhrs Tower,concrete,Phoenix,56.400001525879,1929
+The Godfrey,mixed/composite,Chicago,55.560001373290994,2014
+Blue Residential Tower,concrete,New York City,55.169998168945,2007
+"Hilton Milwaukee City Center, West Building",concrete,Milwaukee,55.169998168945,2000
+The Rookery,steel,Chicago,55.020000457764,1888
+Enquirer Building,steel,Cincinnati,54.299999237061,1928
+"Grange Mutual Insurance Headquarters, North Building",steel,Columbus,53.950000762939,1978
+HL23,steel,New York City,53.669998168945,2011
+The Element,concrete,Dallas,53.639999389648,2008
+Spertus Institute of Jewish Studies,steel,Chicago,53.349998474121,2007
+River Towers A,concrete,Minneapolis,53.299999237061,1966
+City Hyde Park,concrete,Chicago,52.389999389648,2016
+172 Montague Street,concrete,New York City,52.360000610352,2015
+Reva and David Logan Center for Arts,mixed/composite,Chicago,51.099998474121,2012
+Boston Building,steel,Salt Lake City,50.0,1910
+Bayard-Condict Building,steel,New York City,49.38000106811499,1899
+Social and Behavioral Science Tower,concrete,Salt Lake City,49.069999694824,1971
+FlatironCity,steel,Atlanta,48.200000762939,1897
+"GEMS World Academy - Chicago, Lower School",concrete,Chicago,47.400001525879,2014
+Meridian Plaza I,concrete,Sacramento,46.0,2003
+Wainwright Building,steel,St. Louis,44.810001373290994,1892
+Hilliard Senior Homes I,concrete,Chicago,44.5,1966
+Hilliard Senior Homes II,concrete,Chicago,44.5,1966
+"Grange Mutual Insurance Headquarters, South Building",steel,Columbus,43.889999389648,2010
