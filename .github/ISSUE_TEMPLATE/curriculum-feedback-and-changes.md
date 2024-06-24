@@ -6,22 +6,8 @@ labels: ''
 assignees: ''
 
 ---
+### Assignment Number or lecture
+<!-- What assignment(notebook) or lecture are you interested in telling us about? (e.g. HW 01 -->
 
-- type: textarea
-    id: assignment-notebooks
-    attributes:
-      label: Assignment Number or lecture
-      description: What assignment(notebook) or lecture are you interested in telling us about?
-      placeholder: HW 01
-      value: ""
-    validations:
-      required: false
-  - type: textarea
-    id: description of change
-    attributes:
-      label: Feedback or Suggestion
-      description: We would love to hear what you are seeing or changing.
-      placeholder: "Your ideas or feedback here"
-      value: ""
-    validations:
-      required: false
+### Feedback or Suggestion
+<!-- We would love to hear what you are seeing or changing. -->
